@@ -1,0 +1,17 @@
+# Mark's Data Science Resume
+
+# Data Cleaning
+   # Pulling and cleaning CRM Data
+        # Finding duplicates, dropping columns and creating groups
+
+# Data Analysis
+   # Correlation
+        # Heatmap
+
+# Data Visualization
+
+# Machine Learning
+   # Customer Segmentation via CRM
+       # Recommendation System (Netflix of Sales)
+   # Customer Segmentation via Funding Data
+        # Streaming Funding Data to Build Models
