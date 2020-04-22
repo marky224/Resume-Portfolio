@@ -21,6 +21,9 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Machine Learning
       - Unsupervised - Clustering - City Segmentation, Customer Segmentation
       - Supervised - Logistical Regression
+         - SciPy
    - Model Evaluation
+      - F1, R^2, jaccard, confursion matrix
+         - Sci-kit learn
    - Data Visualization
       - Matplotlib, Seaborn
