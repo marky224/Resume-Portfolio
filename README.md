@@ -14,6 +14,7 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
 # Project Components
    - Data Import
       - Reading Files, Webscrapping
+         - Numpy, Pandas, Geopandas
    - Data Cleaning
    - Exploratory Data Analysis
       - Correlations - Heatmap - PCA
