@@ -11,7 +11,7 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Pipeline Forecasting | Supervised Machine Learning (+ Unsupervised Machine Learning, Supervised Machine Learning)
       - MQL Pipeline (In Progress)
 
-# Project Components
+## Project Components
    - Data Import
       - Reading Files, Webscrapping
          - Numpy, Pandas, Geopandas
