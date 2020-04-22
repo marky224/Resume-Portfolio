@@ -23,4 +23,4 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
       - Supervised - Logistical Regression
    - Model Evaluation
    - Data Visualization
-      - Matpoltlib, Seaborn
+      - Matplotlib, Seaborn
