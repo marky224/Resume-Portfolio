@@ -1,20 +1,21 @@
-# Mark's Data Science Resume
+# Mark's Data Science Portfolio Outline
+   - Clustering Analysis | PCA, K-Means - Unsupervised Machine Learning
+      - Los Angeles County Cities
+   - Predictive Analysis | Logistical Regression - Supervised Machine Learning
+      - Real Estate
+   - Webscraping | Scrapy
+      - Stock Market Ticker
+   - Pipeline Forecasting | Supervised Machine Learning (+ Unsupervised Machine Learning, Supervised Machine Learning)
+      - MQL Pipeline
 
-# Data Cleaning
-   # Pulling and cleaning CRM Data
-        # Finding duplicates, dropping columns and creating groups
-
-# Data Analysis
-   # Correlation
-        # Heatmap
-
-# Data Visualization
-
-# Machine Learning
-   # Customer Segmentation via CRM
-       # Recommendation System (Netflix of Sales)
-   # Customer Segmentation via Marketing Campaign 
-   # Customer Segmentation via Forbes
-
-   # Customer Segmentation via Funding Data
-        # Streaming Funding Data to Build Models
+# Project Components
+   - Data Import
+      - Reading Files, Webscrapping
+   - Data Cleaning
+   - Exploratory Data Analysis
+      - Correlations - Heatmap - PCA
+   - Machine Learning
+      - Unsupervised - Clustering - City Segmentation, Customer Segmentation
+      - Supervised - Logistical Regression
+   - Model Evaluation
+   - Data Visualization
