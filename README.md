@@ -9,7 +9,7 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Webscraping | Scrapy
       - Stock Market Ticker (In Queue)
    - Pipeline Forecasting | Supervised Machine Learning (+ Unsupervised Machine Learning, Supervised Machine Learning)
-      - MQL Pipeline (In Queue)
+      - MQL Pipeline - Kaggel Datset (In Queue)
 
 ## Project Components
    - Data Import
