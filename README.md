@@ -17,9 +17,12 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Data Import/Export
       - Reading Files, Webscrapping, Creating files (in excel and CSV), Sending to MS SQL Server
          - Numpy, Pandas, Geopandas, BeautifulSoup4, SQLAlchemy
-   - Data Cleaning
    - Exploratory Data Analysis
       - Correlations - Heatmap - PCA
+      - Scatterplots, Bar Graphs, Histograms, etc
+   - Data Cleaning
+   - Feature Engineering
+   - Feature Importance
    - Machine Learning
       - Unsupervised - Clustering - City Segmentation, Customer Segmentation
       - Supervised - Logistical Regression
