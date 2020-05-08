@@ -9,7 +9,9 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Webscraping and Store | BeautifulSoup4
       - Venture Funding News and Companies - to SQL Server
    - Pipeline Forecasting | Supervised Machine Learning (+ Unsupervised Machine Learning, Supervised Machine Learning)
-      - MQL Pipeline - Kaggel Datset (In Queue)
+      - MQL Pipeline - Kaggel Datset (In Progress)
+   - Future Project
+      - TBD
 
 ## Project Components
    - Data Import/Export
