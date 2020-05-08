@@ -5,16 +5,16 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Clustering Analysis | PCA, K-Means - Unsupervised Machine Learning
       - Los Angeles County Cities
    - Predictive Analysis | Logistical Regression - Supervised Machine Learning
-      - Real Estate - Kaggle Dataset (In Progress)
-   - Webscraping | Scrapy
-      - Stock Market Ticker (In Queue)
+      - Real Estate - Kaggle Competition and Dataset
+   - Webscraping and Store | BeautifulSoup4
+      - Venture Funding News and Companies - to SQL Server
    - Pipeline Forecasting | Supervised Machine Learning (+ Unsupervised Machine Learning, Supervised Machine Learning)
       - MQL Pipeline - Kaggel Datset (In Queue)
 
 ## Project Components
-   - Data Import
-      - Reading Files, Webscrapping
-         - Numpy, Pandas, Geopandas
+   - Data Import/Export
+      - Reading Files, Webscrapping, Creating files (in excel and CSV), Sending to MS SQL Server
+         - Numpy, Pandas, Geopandas, BeautifulSoup4, SQLAlchemy
    - Data Cleaning
    - Exploratory Data Analysis
       - Correlations - Heatmap - PCA
