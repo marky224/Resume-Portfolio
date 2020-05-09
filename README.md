@@ -22,7 +22,6 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
       - Scatterplots, Bar Graphs, Histograms, etc
    - Data Cleaning
    - Feature Engineering
-   - Feature Importance
    - Machine Learning
       - Unsupervised - Clustering - City Segmentation, Customer Segmentation
       - Supervised - Logistical Regression
@@ -30,5 +29,6 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
    - Model Evaluation
       - F1, R^2, jaccard, confursion matrix
          - Sci-kit learn
+   - Feature Importance
    - Data Visualization
       - Matplotlib, Seaborn
