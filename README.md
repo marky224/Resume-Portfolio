@@ -3,7 +3,7 @@ A repository that includes Mark's data science resume portfolio and Mark's data 
 
 # Mark's Data Science Portfolio Outline
    - Marketing Funnel Analytics, Time Series, Segmentation and Forecast - Kaggle Dataset (in progress)
-   - Customer Base Analysis - KPMG Virtual Internship
+   - Customer Base Analysis and Predictive Model - KPMG Virtual Internship
    - Venture Funding News Web Scraping and SQL Store - VCNewsDaily.com
    - Real Estate Price Predictor - Kaggle Dataset and Competition
    - LA County City Segmentation and Graphs - Data from LA County (data.lacounty.gov)
