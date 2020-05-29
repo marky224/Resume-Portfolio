@@ -1,5 +1,5 @@
 # Resume-Portfolio
-A repository that includes Mark's data science resume portfolio and Mark's data science projects
+A repository that includes Mark's data science projects and resume
 
 Mark's Data Science Project | Data Source
 --------------------------- | -----------
