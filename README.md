@@ -5,8 +5,8 @@ Mark's Data Science Project | Data Source
 --------------------------- | -----------
    Marketing Funnel Analytics, Time Series, Segmentation and Forecast | Kaggle Dataset (in progress)
    [New Customer Profit Predictor Model](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/KPMG%20Internship) | [KPMG Virtual Internship](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
-   Venture Funding News Web Scraping and SQL Store | VCNewsDaily.com
-   Real Estate Price Predictor | Kaggle Dataset and Competition
+   Venture Funding News Web Scraping and SQL Store | [VCNewsDaily.com](https://vcnewsdaily.com/)
+   [Real Estate Price Predictor](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/Kaggle%20Competition%20-%20Real%20Estate%20Price%20Predictor) | [Kaggle Dataset and Competition](https://www.kaggle.com/markmarquez/real-estate-price-predictor)
    [LA County City Segmentation and Graphs](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/Coursera%20Capstone) | [California EDD Data Library](https://data.edd.ca.gov/)
 
 ## Mark's Data Science Skills
