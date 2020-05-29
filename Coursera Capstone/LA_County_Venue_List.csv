@@ -1,0 +1,469 @@
+,Name,Category,City,Area,Group
+0,Moby's Coffee & Tea Company,Coffee Shop,North Hollywood,North Hollywood - Valley Village,3
+1,Movement Lifestyle Studio,Dance Studio,North Hollywood,North Hollywood - Valley Village,3
+2,Iliad Bookshop,Bookstore,North Hollywood,North Hollywood - Valley Village,3
+3,Frends Beauty,Cosmetics Shop,Valley Village,North Hollywood - Valley Village,3
+4,Cardio Barre,Gym / Fitness Center,Valley Village,North Hollywood - Valley Village,3
+5,Val Surf,Board Shop,Valley Village,North Hollywood - Valley Village,3
+6,Aquarium City,Pet Store,Canoga Park,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+7,Pastries By Edie,Café,Canoga Park,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+8,Pho 21,Asian Restaurant,Canoga Park,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+9,Brent's Deli,Deli / Bodega,Winnetk,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+10,Nordstrom,Women's Store,Winnetk,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+11,PizzaRev,Pizza Place,Winnetk,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+12,Topanga Canyon Hills,Scenic Lookout,Woodland Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+13,Gelson's Market,Supermarket,Woodland Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+14,Calabasas Farmer's Market,Farmers Market,Woodland Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+15,El Pollo Amigo,Mexican Restaurant,West Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+16,Yozen Frogurt,Ice Cream Shop,West Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+17,Starbucks,Coffee Shop,West Hills,Canoga Park - Winnetka - Woodland Hills - West Hills,3
+18,Softline Solutions,Office,Sun Valley,Sun Valley - La Tuna Canyon,2
+19,786 Degrees Wood Fired Pizza Co.,Pizza Place,Sun Valley,Sun Valley - La Tuna Canyon,2
+20,In-N-Out Burger,Fast Food Restaurant,Sun Valley,Sun Valley - La Tuna Canyon,2
+21,Old Time Drive In,American Restaurant,La Tuna Canyon,Sun Valley - La Tuna Canyon,2
+22,Grocery Outlet,Grocery Store,La Tuna Canyon,Sun Valley - La Tuna Canyon,2
+23,Rise N Shine Café,Breakfast Spot,La Tuna Canyon,Sun Valley - La Tuna Canyon,2
+24,Long Beach Creamery,Ice Cream Shop,Wilmington,Wilmington - Harbor City,2
+25,555 East American Steakhouse,Steakhouse,Wilmington,Wilmington - Harbor City,2
+26,Shoreline Park,Park,Wilmington,Wilmington - Harbor City,2
+27,Cliffs of Palos Verdes,Scenic Lookout,Harbor City,Wilmington - Harbor City,2
+28,La Española Meats,Spanish Restaurant,Harbor City,Wilmington - Harbor City,2
+29,California Harley-Davidson,Motorcycle Shop,Harbor City,Wilmington - Harbor City,2
+30,In-N-Out Burger,Fast Food Restaurant,Mission Hills,Mission Hills - Panorama City - North Hills,2
+31,La Michoacana,Snack Place,Mission Hills,Mission Hills - Panorama City - North Hills,2
+32,Rite Aid,Pharmacy,Mission Hills,Mission Hills - Panorama City - North Hills,2
+33,In-N-Out Burger,Fast Food Restaurant,Panorama City,Mission Hills - Panorama City - North Hills,2
+34,LA Kings Valley Ice Center,Skating Rink,Panorama City,Mission Hills - Panorama City - North Hills,2
+35,Rincon Taurino,Mexican Restaurant,Panorama City,Mission Hills - Panorama City - North Hills,2
+36,LA Kings Valley Ice Center,Skating Rink,North Hills,Mission Hills - Panorama City - North Hills,2
+37,Stinking Crawfish,Seafood Restaurant,North Hills,Mission Hills - Panorama City - North Hills,2
+38,Kountry Folks Restaurant,American Restaurant,North Hills,Mission Hills - Panorama City - North Hills,2
+39,Vista Hermosa Park,Park,Westlake,Westlake,2
+40,The Theatre at the Ace,Theater,Westlake,Westlake,2
+41,Whole Foods Market,Grocery Store,Westlake,Westlake,2
+42,Ramirez Beverage Center,Liquor Store,Boyle Heights,Boyle Heights,2
+43,Guisados,Taco Place,Boyle Heights,Boyle Heights,2
+44,Mariscos 4 Vientos Taco Truck,Food Truck,Boyle Heights,Boyle Heights,2
+45,Valero,Gas Station,Sun Village,Sun Village,2
+46,AV Comfort Specialist,Construction & Landscaping,Sun Village,Sun Village,2
+47,Joshua Liquor,Liquor Store,Sun Village,Sun Village,2
+48,FurnSaj Bakery,Middle Eastern Restaurant,Granada Hills,Granada Hills - Knollwood,3
+49,The Granada Hills Gourmet Food Trucks Explosion (Food Trucks Row),Food Truck,Granada Hills,Granada Hills - Knollwood,3
+50,Trader Joe's,Grocery Store,Granada Hills,Granada Hills - Knollwood,3
+51,Yogurtland,Frozen Yogurt Shop,Resed,Reseda - West Van Nuys,3
+52,Vinh Loi Tofu,Vietnamese Restaurant,Resed,Reseda - West Van Nuys,3
+53,Fab Hot Dogs,Hot Dog Joint,Resed,Reseda - West Van Nuys,3
+54,Nanbankan,Japanese Restaurant,West Los Angeles,West Los Angeles,1
+55,Nuart Theater,Indie Movie Theater,West Los Angeles,West Los Angeles,1
+56,The Bombay Frankie Company,North Indian Restaurant,West Los Angeles,West Los Angeles,1
+57,El Pollo Loco,Fast Food Restaurant,South Los Angeles,South Los Angeles,2
+58,Imperial Fish Market,Seafood Restaurant,South Los Angeles,South Los Angeles,2
+59,Jack in the Box,Fast Food Restaurant,South Los Angeles,South Los Angeles,2
+60,Veterans Memorial Park,Park,Sylmar,Sylmar,2
+61,El Cariso Community Regional Park,Park,Sylmar,Sylmar,2
+62,Nethercutt Collection & Museum,Museum,Sylmar,Sylmar,2
+63,Hansen Dam,Trail,Pacoim,Arleta - Pacoima,2
+64,Wong's Kitchen,Chinese Restaurant,Pacoim,Arleta - Pacoima,2
+65,Pet Supreme,Pet Store,Pacoim,Arleta - Pacoima,2
+66,Blue Bottle Coffee,Coffee Shop,Palms,Palms - Mar Vista - Del Rey,3
+67,Queen Bee Salon & Spa,Salon / Barbershop,Palms,Palms - Mar Vista - Del Rey,3
+68,Roberta’s,Pizza Place,Palms,Palms - Mar Vista - Del Rey,3
+69,Superba Food + Bread,New American Restaurant,Mar Vist,Palms - Mar Vista - Del Rey,3
+70,accomplice bar,Bar,Mar Vist,Palms - Mar Vista - Del Rey,3
+71,Clover Park,Park,Mar Vist,Palms - Mar Vista - Del Rey,3
+72,Me-n-Ed's,Pizza Place,Del Rey,Palms - Mar Vista - Del Rey,3
+73,Tea Garden Restaurant,Chinese Restaurant,Del Rey,Palms - Mar Vista - Del Rey,3
+74,Cristal Bakery,Bakery,Del Rey,Palms - Mar Vista - Del Rey,3
+75,Salt & Straw,Ice Cream Shop,Venice,Venice,1
+76,South Santa Monica Beach,Beach,Venice,Venice,1
+77,Ocean Park Beach,Beach,Venice,Venice,1
+78,Post & Beam,New American Restaurant,Baldwin Hills,West Adams - Baldwin Hills - Leimert,2
+79,Leimert Plaza Park,Park,Baldwin Hills,West Adams - Baldwin Hills - Leimert,2
+80,Krispy Kreme Doughnuts,Donut Shop,Baldwin Hills,West Adams - Baldwin Hills - Leimert,2
+81,Moonstone Beach,Beach,Leimert,West Adams - Baldwin Hills - Leimert,2
+82,Moonstone Beach Boardwalk,Trail,Leimert,West Adams - Baldwin Hills - Leimert,2
+83,Sandys Deli Bakery,Deli / Bodega,Leimert,West Adams - Baldwin Hills - Leimert,2
+84,Brouwerij West,Brewery,San Pedro,San Pedro,3
+85,Busy Bee Market,Sandwich Place,San Pedro,San Pedro,3
+86,Point Fermin Park,Park,San Pedro,San Pedro,3
+87,MacLeod Ale Brewing Co.,Brewery,Van Nuys,Van Nuys - North Sherman Oaks,3
+88,Phở Sô 1,Vietnamese Restaurant,Van Nuys,Van Nuys - North Sherman Oaks,3
+89,Nat's Early Bite Coffee Shop,Diner,Van Nuys,Van Nuys - North Sherman Oaks,3
+90,Mendocino Farms,Sandwich Place,Sherman Oaks,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+91,Burke Williams Spa,Spa,Sherman Oaks,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+92,mizlala,Middle Eastern Restaurant,Sherman Oaks,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+93,Salt & Straw,Ice Cream Shop,Studio City,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+94,Fryman Canyon Park,Park,Studio City,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+95,Studio City Farmers Market,Farmers Market,Studio City,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+96,Lakeside Golf Club,Golf Course,Toluca Lake,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+97,New York Backlot,Theme Park,Toluca Lake,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+98,Universal Studios Backlot,Theme Park,Toluca Lake,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+99,Lake Hollywood Reservoir,Reservoir,Cahuenga Pass,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+100,Lake Hollywood Park,Park,Cahuenga Pass,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+101,Hollywood Bowl Overlook,Scenic Lookout,Cahuenga Pass,Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,1
+102,Pantages Theatre,Theater,Hollywood,Hollywood,3
+103,Amoeba Music,Record Shop,Hollywood,Hollywood,3
+104,Equinox Hollywood,Gym,Hollywood,Hollywood,3
+105,Botanica,American Restaurant,Silver Lake,Silver Lake - Echo Park - Elysian Valley,3
+106,Milk,Ice Cream Shop,Silver Lake,Silver Lake - Echo Park - Elysian Valley,3
+107,L&E Oyster Bar,Seafood Restaurant,Silver Lake,Silver Lake - Echo Park - Elysian Valley,3
+108,Ostrich Farm,American Restaurant,Echo Park,Silver Lake - Echo Park - Elysian Valley,3
+109,Pho Siam Thai Spa,Massage Studio,Echo Park,Silver Lake - Echo Park - Elysian Valley,3
+110,Leo's Tacos,Taco Place,Echo Park,Silver Lake - Echo Park - Elysian Valley,3
+111,The Mark,Deli / Bodega,Elysian Valley,Silver Lake - Echo Park - Elysian Valley,3
+112,Artisan Coffee,Coffee Shop,Elysian Valley,Silver Lake - Echo Park - Elysian Valley,3
+113,Antelope Lake,Lake,Elysian Valley,Silver Lake - Echo Park - Elysian Valley,3
+114,Trader Joe's,Grocery Store,Chatsworth,Chatsworth - Porter Ranch,3
+115,Sharky's Woodfired Mexican Grill,Mexican Restaurant,Chatsworth,Chatsworth - Porter Ranch,3
+116,In-N-Out Burger,Fast Food Restaurant,Chatsworth,Chatsworth - Porter Ranch,3
+117,El Gallo Giro,Mexican Restaurant,Walnut Park,Walnut Park,2
+118,Original Tommy's Hamburgers,Burger Joint,Walnut Park,Walnut Park,2
+119,King Taco,Mexican Restaurant,Walnut Park,Walnut Park,2
+120,Trader Joe's,Grocery Store,Brentwood,Brentwood - Pacific Palisades,1
+121,Rubio's,Taco Place,Brentwood,Brentwood - Pacific Palisades,1
+122,Melo's Pizza & Pasta,Pizza Place,Brentwood,Brentwood - Pacific Palisades,1
+123,Topanga State Park,State / Provincial Park,Pacific Palisades,Brentwood - Pacific Palisades,1
+124,Veuve Clicquot Polo Classic,Park,Pacific Palisades,Brentwood - Pacific Palisades,1
+125,Will Rogers State Historic Park,State / Provincial Park,Pacific Palisades,Brentwood - Pacific Palisades,1
+126,Blue Bottle Coffee,Coffee Shop,Westchester,Westchester - Playa del Rey,1
+127,YouTube Space LA,Film Studio,Westchester,Westchester - Playa del Rey,1
+128,Marina del Rey Harbor,Harbor / Marina,Westchester,Westchester - Playa del Rey,1
+129,Playa Del Rey Beach,Beach,Playa Del Rey,Westchester - Playa del Rey,1
+130,YouTube Space LA,Film Studio,Playa Del Rey,Westchester - Playa del Rey,1
+131,Whole Foods Market,Grocery Store,Playa Del Rey,Westchester - Playa del Rey,1
+132,Mother Moo Creamery,Ice Cream Shop,Sierra Madre,Sierra Madre,1
+133,Poppy Cake Baking Company,Bakery,Sierra Madre,Sierra Madre,1
+134,Bean Town Coffee House & Bakery,Coffee Shop,Sierra Madre,Sierra Madre,1
+135,Fiore Market Cafe,Sandwich Place,South Pasaden,South Pasadena,1
+136,Tomato Pie Pizza Joint,Pizza Place,South Pasaden,South Pasadena,1
+137,South Pasadena Farmers' Market,Farmers Market,South Pasaden,South Pasadena,1
+138,Huntington Botanical Gardens Conservatory,Garden,Vincent,Vincent,2
+139,"The Huntington Library, Art Collections, and Botanical Gardens",Museum,Vincent,Vincent,2
+140,Japanese Garden,Garden,Vincent,Vincent,2
+141,Los Chiles,Mexican Restaurant,Lake Los Angeles,Lake Los Angeles,2
+142,Dollar General,Discount Store,Lake Los Angeles,Lake Los Angeles,2
+143,Big Als Pizza,Pizza Place,Lake Los Angeles,Lake Los Angeles,2
+144,Lum-ka-naad,Thai Restaurant,Northridge,Northridge,3
+145,Urbane Cafe,American Restaurant,Northridge,Northridge,3
+146,CVS pharmacy,Pharmacy,Northridge,Northridge,3
+147,Angeles National Golf Club,Golf Course,Sunland,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+148,Starbucks,Coffee Shop,Sunland,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+149,Giamela's Submarine Sandwiches,Sandwich Place,Sunland,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+150,Softline Solutions,Office,Tujung,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+151,In-N-Out Burger,Fast Food Restaurant,Tujung,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+152,Tori Yen Restaurant,Sushi Restaurant,Tujung,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+153,Angeles National Golf Club,Golf Course,Lake View Terrace,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+154,Hansen Dam,Trail,Lake View Terrace,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+155,Hideaway Bar & Grill,Bar,Lake View Terrace,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+156,Angeles National Golf Club,Golf Course,Shadow Hills,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+157,Rise N Shine Café,Breakfast Spot,Shadow Hills,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+158,Giamela's Submarine Sandwiches,Sandwich Place,Shadow Hills,Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,3
+159,Lake Balboa Running Trails,Trail,Encino,Encino - Tarzana,1
+160,Lake Balboa Park,Park,Encino,Encino - Tarzana,1
+161,The Stand,Hot Dog Joint,Encino,Encino - Tarzana,1
+162,The Carving Board,Sandwich Place,Tarzan,Encino - Tarzana,1
+163,Wanderlust Creamery,Ice Cream Shop,Tarzan,Encino - Tarzana,1
+164,American Lock & Key,Locksmith,Tarzan,Encino - Tarzana,1
+165,Tacos Los Potrillos,Food Truck,South San Jose Hills,South San Jose Hills,2
+166,Friendship Park,Park,South San Jose Hills,South San Jose Hills,2
+167,Shadow Oak Park,Park,South San Jose Hills,South San Jose Hills,2
+168,J. Paul Getty Museum,Art Museum,Bel Air,Bel Air - Beverly Crest,1
+169,Getty Sculpture Garden,Art Museum,Bel Air,Bel Air - Beverly Crest,1
+170,Beverly Hills Hotel,Hotel,Bel Air,Bel Air - Beverly Crest,1
+171,Peninsula Market,Grocery Store,Westwood,Westwood,1
+172,Shell Fuelgood,Gas Station,Westwood,Westwood,1
+173,Buffalo Chips Pizza,Pizza Place,Westwood,Westwood,1
+174,Mike's Deli,Deli / Bodega,View Park Windsor Hills,View Park-Windsor Hills,1
+175,New Orleans Snoballs,Cajun / Creole Restaurant,View Park Windsor Hills,View Park-Windsor Hills,1
+176,Orleans and York Deli,Seafood Restaurant,View Park Windsor Hills,View Park-Windsor Hills,1
+177,Huntington Botanical Gardens Conservatory,Garden,San Marino,San Marino,1
+178,"The Huntington Library, Art Collections, and Botanical Gardens",Museum,San Marino,San Marino,1
+179,Japanese Garden,Garden,San Marino,San Marino,1
+180,Granny's Donuts,Donut Shop,Cudahy,Cudahy,2
+181,Jamba Juice,Juice Bar,Cudahy,Cudahy,2
+182,El Pollo Loco,Fast Food Restaurant,Cudahy,Cudahy,2
+183,Dulan's Soul Food Kitchen,Southern / Soul Food Restaurant,Westmont,Westmont,2
+184,Kindle's Donuts,Donut Shop,Westmont,Westmont,2
+185,Mom's Bar-B-Que,BBQ Joint,Westmont,Westmont,2
+186,Panda Express,Chinese Restaurant,Lennox,Lennox,2
+187,La Feria,Mexican Restaurant,Lennox,Lennox,2
+188,Escape Campervans,Rental Car Location,Lennox,Lennox,2
+189,Casa Gamino,Mexican Restaurant,Paramount,Paramount,2
+190,Paramount Drive-In Theater,Indie Movie Theater,Paramount,Paramount,2
+191,Tacos Giyo,Mexican Restaurant,Paramount,Paramount,2
+192,Hermosa Beach - The Strand,Beach,Hermosa Beach,Hermosa Beach,1
+193,Ocean Diner,Diner,Hermosa Beach,Hermosa Beach,1
+194,The Strand,Trail,Hermosa Beach,Hermosa Beach,1
+195,Janet's Mediterranean Cuisine,Mediterranean Restaurant,Duarte,Duarte,3
+196,Max's Mexican Cuisine,Mexican Restaurant,Duarte,Duarte,3
+197,The Old Spaghetti Factory,Italian Restaurant,Duarte,Duarte,3
+198,Bakers & Baristas,Café,Artesi,Artesia,3
+199,Insight Shooting Range,Gun Range,Artesi,Artesia,3
+200,Surati Farsan,Indian Restaurant,Artesi,Artesia,3
+201,Blaze Pizza,Pizza Place,Alhambr,Alhambra,3
+202,In-N-Out Burger,Fast Food Restaurant,Alhambr,Alhambra,3
+203,The Hat,Sandwich Place,Alhambr,Alhambra,3
+204,Liquor Mart,Liquor Store,East Whittier,East Whittier,3
+205,LA Fitness Whittier,Gym / Fitness Center,East Whittier,East Whittier,3
+206,Dunkin',Donut Shop,East Whittier,East Whittier,3
+207,Salt & Straw,Ice Cream Shop,West Hollywood,West Hollywood,3
+208,The Roxy,Rock Club,West Hollywood,West Hollywood,3
+209,Verve Coffee Roasters,Coffee Shop,West Hollywood,West Hollywood,3
+210,Kotosh,Sushi Restaurant,Lomit,Lomita,3
+211,Sushi Delight,Asian Restaurant,Lomit,Lomita,3
+212,Lomita's Best,Diner,Lomit,Lomita,3
+213,Manhattan Beach Pier,Pier,Manhattan Beach,Manhattan Beach,1
+214,Manhattan Beach,Beach,Manhattan Beach,Manhattan Beach,1
+215,The Izaka-ya by Katsuya,Sushi Restaurant,Manhattan Beach,Manhattan Beach,1
+216,Mendocino Farms,Restaurant,El Segundo,El Segundo,1
+217,Whole Foods Market,Grocery Store,El Segundo,El Segundo,1
+218,North Italia,Italian Restaurant,El Segundo,El Segundo,1
+219,Tam's Burgers,Burger Joint,Citrus,Citrus,2
+220,Larios Meat Market,Butcher,Citrus,Citrus,2
+221,Union Rescue Mission Thrift Store,Thrift / Vintage Store,Citrus,Citrus,2
+222,Julian's Tortilleria,Mexican Restaurant,Hawaiian Gardens,Hawaiian Gardens,2
+223,The Bingo Club,Speakeasy,Hawaiian Gardens,Hawaiian Gardens,2
+224,bbq night,Korean Restaurant,Hawaiian Gardens,Hawaiian Gardens,2
+225,Taco Nazo,Mexican Restaurant,Bellflower,Bellflower,2
+226,Johnny Rebs' - Bellflower,BBQ Joint,Bellflower,Bellflower,2
+227,Lee's Sandwiches,Sandwich Place,Bellflower,Bellflower,2
+228,In-N-Out Burger,Fast Food Restaurant,La Mirad,La Mirada,3
+229,Creek Park,Park,La Mirad,La Mirada,3
+230,Gondola Pizza,Pizza Place,La Mirad,La Mirada,3
+231,BiG AL'S Pizzeria,Pizza Place,Maywood,Maywood,2
+232,Redwood Room,Dive Bar,Maywood,Maywood,2
+233,King Taco Restaurant,Mexican Restaurant,Maywood,Maywood,2
+234,In-N-Out Burger,Fast Food Restaurant,West Carson,West Carson,3
+235,"Pacific Homeworks, Inc.",Construction & Landscaping,West Carson,West Carson,3
+236,BCD Tofu House,Korean Restaurant,West Carson,West Carson,3
+237,VONS,Grocery Store,Quartz Hill,Quartz Hill,3
+238,Starbucks,Coffee Shop,Quartz Hill,Quartz Hill,3
+239,Broken Bit Steakhouse,Steakhouse,Quartz Hill,Quartz Hill,3
+240,Fosters Freeze,Burger Joint,Bell Gardens,Bell Gardens,2
+241,El Pescador,Seafood Restaurant,Bell Gardens,Bell Gardens,2
+242,Taco Quickie/Quickie Dog,Hot Dog Joint,Bell Gardens,Bell Gardens,2
+243,La Casita Mexicana,Mexican Restaurant,Bell,Bell,2
+244,Tacos El Gavilan,Mexican Restaurant,Bell,Bell,2
+245,Fatima's Meat market,Deli / Bodega,Bell,Bell,2
+246,Venta de Vargas,Spanish Restaurant,San Fernando,San Fernando,2
+247,Casa Naca (Bar La Pastora),Restaurant,San Fernando,San Fernando,2
+248,El Bartolo,Spanish Restaurant,San Fernando,San Fernando,2
+249,In-N-Out Burger,Fast Food Restaurant,West Puente Valley,West Puente Valley,2
+250,Chris' Burgers,Burger Joint,West Puente Valley,West Puente Valley,2
+251,Boca Del Rio,Taco Place,West Puente Valley,West Puente Valley,2
+252,Hilltop Park,Park,Signal Hill,Signal Hill,3
+253,Signal Hill Skyline,Park,Signal Hill,Signal Hill,3
+254,In-N-Out Burger,Fast Food Restaurant,Signal Hill,Signal Hill,3
+255,Avila's El Ranchito,Mexican Restaurant,Florence Graham,Florence-Graham,2
+256,Tom's Jr.,Burger Joint,Florence Graham,Florence-Graham,2
+257,Ray's Bbq,BBQ Joint,Florence Graham,Florence-Graham,2
+258,Lavender & Honey,Café,Altaden,Altadena,3
+259,Lincoln,Café,Altaden,Altadena,3
+260,Echo Mountain Hiking Trails,Scenic Lookout,Altaden,Altadena,3
+261,Baja California Fish Tacos,Mexican Restaurant,Lawndale,Lawndale,2
+262,Saigon Dish,Noodle House,Lawndale,Lawndale,2
+263,El Amigo Tacos,Mexican Restaurant,Lawndale,Lawndale,2
+264,Santa Monica State Beach,State / Provincial Park,Santa Monic,Santa Monica,1
+265,South Santa Monica Beach,Beach,Santa Monic,Santa Monica,1
+266,Ocean Park Beach,Beach,Santa Monic,Santa Monica,1
+267,Planet Fitness,Gym / Fitness Center,Valind,Valinda,2
+268,Scardino's Pizza,Pizza Place,Valind,Valinda,2
+269,Stater Bros. Markets,Supermarket,Valind,Valinda,2
+270,Pizzamania,Pizza Place,South Whittier,South Whittier,2
+271,In-N-Out Burger,Fast Food Restaurant,South Whittier,South Whittier,2
+272,Pieology Pizzeria,Pizza Place,South Whittier,South Whittier,2
+273,Walnut High School,High School,Walnut,Walnut,1
+274,HomeGoods,Furniture / Home Store,Walnut,Walnut,1
+275,"Pieology Pizzeria Walnut, CA",Pizza Place,Walnut,Walnut,1
+276,AAA Auto Club Raceway,Racetrack,Pomon,Pomona,2
+277,Tropical Mexico,Mexican Restaurant,Pomon,Pomona,2
+278,Kellogg Ranch Farm Store/Agriscapes,Farmers Market,Pomon,Pomona,2
+279,Bob's Burgers,Burger Joint,La Puente,La Puente,2
+280,Chris' Burgers,Burger Joint,La Puente,La Puente,2
+281,Boca Del Rio,Taco Place,La Puente,La Puente,2
+282,Erewhon Natural Foods Market,Grocery Store,Calabasas,Calabasas,1
+283,Gelson's Market,Supermarket,Calabasas,Calabasas,1
+284,Calabasas Farmer's Market,Farmers Market,Calabasas,Calabasas,1
+285,Osawa,Japanese Restaurant,Pasaden,Pasadena,3
+286,The Luggage Room Pizzeria,Pizza Place,Pasaden,Pasadena,3
+287,Vroman's Bookstore,Bookstore,Pasaden,Pasadena,3
+288,Paradis Ice Cream,Ice Cream Shop,La Crescenta Montrose,La Crescenta-Montrose,1
+289,Trader Joe's,Grocery Store,La Crescenta Montrose,La Crescenta-Montrose,1
+290,The T Room,Tea Room,La Crescenta Montrose,La Crescenta-Montrose,1
+291,Rose City Pizza,Pizza Place,Rosemead,Rosemead,2
+292,In-N-Out Burger,Fast Food Restaurant,Rosemead,Rosemead,2
+293,Summer Rolls,Vietnamese Restaurant,Rosemead,Rosemead,2
+294,In-N-Out Burger,Fast Food Restaurant,Pico River,Pico Rivera,2
+295,Dal Rae Restaurant,Steakhouse,Pico River,Pico Rivera,2
+296,Tierra Mia Coffee,Coffee Shop,Pico River,Pico Rivera,2
+297,Los Angeles County Arboretum and Botanic Garden,Garden,Arcadi,Arcadia,1
+298,REI,Sporting Goods Shop,Arcadi,Arcadia,1
+299,Mt. Lowe Brewery,Brewery,Arcadi,Arcadia,1
+300,Handy Market,Deli / Bodega,Burbank,Burbank,3
+301,Universal Studios Backlot,Theme Park,Burbank,Burbank,3
+302,Porto's Bakery & Cafe,Cuban Restaurant,Burbank,Burbank,3
+303,Blaze Pizza,Pizza Place,Monrovi,Monrovia,3
+304,Monrovia Canyon Park,Trail,Monrovi,Monrovia,3
+305,Jersey Mike's Subs,Sandwich Place,Monrovi,Monrovia,3
+306,In-N-Out Burger,Fast Food Restaurant,Baldwin Park,Baldwin Park,2
+307,Starbucks,Coffee Shop,Baldwin Park,Baldwin Park,2
+308,Pepes Mexican Restaurant,Mexican Restaurant,Baldwin Park,Baldwin Park,2
+309,Descanso Gardens,Garden,La Cañada Flintridge,La Cañada Flintridge,1
+310,Sprouts Farmers Market,Grocery Store,La Cañada Flintridge,La Cañada Flintridge,1
+311,Trader Joe's,Grocery Store,La Cañada Flintridge,La Cañada Flintridge,1
+312,Palm Park,Park,West Whittier Los Nietos,West Whittier-Los Nietos,2
+313,IHOP,Breakfast Spot,West Whittier Los Nietos,West Whittier-Los Nietos,2
+314,Starbucks,Coffee Shop,West Whittier Los Nietos,West Whittier-Los Nietos,2
+315,Malibu Beach,Beach,Malibu,Malibu,1
+316,El Matador State Beach,Beach,Malibu,Malibu,1
+317,Little Beach House,Lounge,Malibu,Malibu,1
+318,Hooshik,Dessert Shop,Monterey Park,Monterey Park,3
+319,Huge Tree Pastry,Taiwanese Restaurant,Monterey Park,Monterey Park,3
+320,7-Eleven,Convenience Store,Monterey Park,Monterey Park,3
+321,VONS,Grocery Store,Lancaster,Lancaster,2
+322,Bravery Brewing Co.,Brewery,Lancaster,Lancaster,2
+323,Costco,Warehouse Store,Lancaster,Lancaster,2
+324,San Gabriel Nursery & Florist,Garden Center,East San Gabriel,East San Gabriel,1
+325,Kim Ky Noodle House,Asian Restaurant,East San Gabriel,East San Gabriel,1
+326,Boston Lobster,Seafood Restaurant,East San Gabriel,East San Gabriel,1
+327,Stater Bros. Markets,Grocery Store,Norwalk,Norwalk,2
+328,In-N-Out Burger,Fast Food Restaurant,Norwalk,Norwalk,2
+329,Starbucks,Coffee Shop,Norwalk,Norwalk,2
+330,La Dona (Tamaleria),Mexican Restaurant,East Rancho Dominguez,East Rancho Dominguez,2
+331,Tacos El Unico,Taco Place,East Rancho Dominguez,East Rancho Dominguez,2
+332,Northgate Gonzalez Markets,Supermarket,East Rancho Dominguez,East Rancho Dominguez,2
+333,In-N-Out Burger,Fast Food Restaurant,Rowland Heights,Rowland Heights,3
+334,Walnut High School,High School,Rowland Heights,Rowland Heights,3
+335,The Habit Burger Grill,Burger Joint,Rowland Heights,Rowland Heights,3
+336,Zankou Chicken,Middle Eastern Restaurant,Montebello,Montebello,2
+337,The Habit Burger Grill,Burger Joint,Montebello,Montebello,2
+338,Montebello YMCA,Gym,Montebello,Montebello,2
+339,La Parolaccia Osteria,Italian Restaurant,Long Beach,Long Beach,3
+340,Total Wine & More,Wine Shop,Long Beach,Long Beach,3
+341,Seabirds,Vegetarian / Vegan Restaurant,Long Beach,Long Beach,3
+342,Barnes & Noble,Bookstore,Palmdale,Palmdale,2
+343,In-N-Out Burger,Fast Food Restaurant,Palmdale,Palmdale,2
+344,Trader Joe's,Grocery Store,Palmdale,Palmdale,2
+345,Cliffs of Palos Verdes,Scenic Lookout,Palos Verdes Estates,Palos Verdes Estates,1
+346,Palos Verdes Hiking Trails,Trail,Palos Verdes Estates,Palos Verdes Estates,1
+347,Malaga Cove,Other Great Outdoors,Palos Verdes Estates,Palos Verdes Estates,1
+348,Twisted Colossus,Theme Park Ride / Attraction,Santa Clarit,Santa Clarita,3
+349,Goliath,Theme Park Ride / Attraction,Santa Clarit,Santa Clarita,3
+350,In-N-Out Burger,Fast Food Restaurant,Santa Clarit,Santa Clarita,3
+351,In-N-Out Burger,Fast Food Restaurant,West Covin,West Covina,3
+352,Tokyo Central,Market,West Covin,West Covina,3
+353,Menchie's,Frozen Yogurt Shop,West Covin,West Covina,3
+354,Augie's Coffee Roasters,Coffee Shop,Claremont,Claremont,1
+355,Some Crust Bakery,Bakery,Claremont,Claremont,1
+356,Claremont Craft Ales,Brewery,Claremont,Claremont,1
+357,Fourth Street Mill,Gastropub,La Verne,La Verne,3
+358,The Corner Butcher Shop,Sandwich Place,La Verne,La Verne,3
+359,Rubio's Coastal Grill,Mexican Restaurant,La Verne,La Verne,3
+360,Tyson Nails and Spa,Health & Beauty Service,Lynwood,Lynwood,2
+361,Tierra Mia Coffee,Coffee Shop,Lynwood,Lynwood,2
+362,La Huasteca,Mexican Restaurant,Lynwood,Lynwood,2
+363,In-N-Out Burger,Fast Food Restaurant,Covin,Covina,3
+364,Capri Deli,Sandwich Place,Covin,Covina,3
+365,Ray's Tepeyac,Mexican Restaurant,Covin,Covina,3
+366,In-N-Out Burger,Fast Food Restaurant,Whittier,Whittier,3
+367,Liquor Mart,Liquor Store,Whittier,Whittier,3
+368,Pizzamania,Pizza Place,Whittier,Whittier,3
+369,Giuliano's Delicatessen & Bakery,Deli / Bodega,Garden,Gardena,3
+370,Eatalian Cafe,Italian Restaurant,Garden,Gardena,3
+371,In-N-Out Burger,Fast Food Restaurant,Garden,Gardena,3
+372,The Coffee Bean & Tea Leaf,Coffee Shop,East Los Angeles,East Los Angeles,2
+373,La Azteca Tortilleria,Latin American Restaurant,East Los Angeles,East Los Angeles,2
+374,King Taco Restaurant,Taco Place,East Los Angeles,East Los Angeles,2
+375,Los Angeles School of Gymnastics,Gymnastics Gym,Culver City,Culver City,1
+376,Cliffs of Id,Climbing Gym,Culver City,Culver City,1
+377,Blue Bottle Coffee,Coffee Shop,Culver City,Culver City,1
+378,Mantra Coffee Company,Café,Azus,Azusa,3
+379,Canyon City BBQ,BBQ Joint,Azus,Azusa,3
+380,Congregation Ale House,Gastropub,Azus,Azusa,3
+381,Starbucks,Coffee Shop,Avocado Heights,Avocado Heights,3
+382,Jersey Mike's Subs,Sandwich Place,Avocado Heights,Avocado Heights,3
+383,Mariscos Martin,Mexican Restaurant,Avocado Heights,Avocado Heights,3
+384,Eureka! *Tasting Kitchen,American Restaurant,Hawthorne,Hawthorne,2
+385,Los Angeles Aleworks,Brewery,Hawthorne,Hawthorne,2
+386,Costco,Warehouse Store,Hawthorne,Hawthorne,2
+387,Trader Joe's,Grocery Store,Del Aire,Del Aire,3
+388,Houston's Restaurant,American Restaurant,Del Aire,Del Aire,3
+389,Nothing Bundt Cakes,Bakery,Del Aire,Del Aire,3
+390,Golden Deli Vietnamese Restaurant,Vietnamese Restaurant,San Gabriel,San Gabriel,3
+391,San Gabriel Nursery & Florist,Garden Center,San Gabriel,San Gabriel,3
+392,Yama Seafood,Japanese Restaurant,San Gabriel,San Gabriel,3
+393,Giuliano's Delicatessen & Bakery,Deli / Bodega,Inglewood,Inglewood,2
+394,Orleans & York Deli,Cajun / Creole Restaurant,Inglewood,Inglewood,2
+395,Baja California Fish Tacos,Mexican Restaurant,Inglewood,Inglewood,2
+396,Strand Brewing,Brewery,Torrance,Torrance,1
+397,Smog City Brewing Company,Brewery,Torrance,Torrance,1
+398,In-N-Out Burger,Fast Food Restaurant,Torrance,Torrance,1
+399,Kang Hodong Baekjeong,Korean Restaurant,Temple City,Temple City,3
+400,Summer Rolls,Vietnamese Restaurant,Temple City,Temple City,3
+401,AQUA VAPE,Smoke Shop,Temple City,Temple City,3
+402,Flappy Jacks Pancake House,Breakfast Spot,Glendor,Glendora,3
+403,The Donut Man,Donut Shop,Glendor,Glendora,3
+404,The Hat,American Restaurant,Glendor,Glendora,3
+405,Twisted Colossus,Theme Park Ride / Attraction,Stevenson Ranch,Stevenson Ranch,1
+406,Goliath,Theme Park Ride / Attraction,Stevenson Ranch,Stevenson Ranch,1
+407,In-N-Out Burger,Fast Food Restaurant,Stevenson Ranch,Stevenson Ranch,1
+408,Burritos La Palma,Burrito Place,El Monte,El Monte,2
+409,Plaza Market,Liquor Store,El Monte,El Monte,2
+410,Ixtaco Taqueria,Taco Place,El Monte,El Monte,2
+411,Cost Plus World Market,Furniture / Home Store,Lakewood,Lakewood,3
+412,Starbucks,Coffee Shop,Lakewood,Lakewood,3
+413,Chick-fil-A,Fast Food Restaurant,Lakewood,Lakewood,3
+414,Eatalian Cafe,Italian Restaurant,Compton,Compton,2
+415,Dignity Health Sports Park,Soccer Stadium,Compton,Compton,2
+416,Phantom Carriage Brewery,Brewery,Compton,Compton,2
+417,In-N-Out Burger,Fast Food Restaurant,Huntington Park,Huntington Park,2
+418,Avila's El Ranchito,Mexican Restaurant,Huntington Park,Huntington Park,2
+419,El Gallo Giro,Mexican Restaurant,Huntington Park,Huntington Park,2
+420,Wolf Creek Brewery,Brewery,Castaic,Castaic,1
+421,It's A Grind Coffee House,Coffee Shop,Castaic,Castaic,1
+422,Sky High Sports Valencia,General Entertainment,Castaic,Castaic,1
+423,Dignity Health Sports Park,Soccer Stadium,Carson,Carson,3
+424,Phantom Carriage Brewery,Brewery,Carson,Carson,3
+425,Porsche Experience Center Los Angeles,Racetrack,Carson,Carson,3
+426,iLoveKickboxing - Agoura Hills,Gym,Agoura Hills,Agoura Hills,1
+427,The Old Place,American Restaurant,Agoura Hills,Agoura Hills,1
+428,Tifa Chocolate & Gelato,Dessert Shop,Agoura Hills,Agoura Hills,1
+429,Columbia Sportswear Company,Clothing Store,Commerce,Commerce,2
+430,Disney Store,Toy / Game Store,Commerce,Commerce,2
+431,Tommy Hilfiger,Clothing Store,Commerce,Commerce,2
+432,Porto's Bakery & Cafe,Bakery,Glendale,Glendale,3
+433,Paradis Ice Cream,Ice Cream Shop,Glendale,Glendale,3
+434,Brewyard Brewing Company,Brewery,Glendale,Glendale,3
+435,Bob's Burgers,Burger Joint,Hacienda Heights,Hacienda Heights,3
+436,In-N-Out Burger,Fast Food Restaurant,Hacienda Heights,Hacienda Heights,3
+437,Hsi Lai Temple,Temple,Hacienda Heights,Hacienda Heights,3
+438,Wally's,Wine Bar,Beverly Hills,Beverly Hills,1
+439,Beverly Wilshire Hotel (A Four Seasons Hotel) (Beverly Wilshire Hotel),Hotel,Beverly Hills,Beverly Hills,1
+440,SUGARFISH by sushi nozawa,Sushi Restaurant,Beverly Hills,Beverly Hills,1
+441,Trader Joe's,Grocery Store,Cerritos,Cerritos,1
+442,Cerritos Regional County Park,Park,Cerritos,Cerritos,1
+443,Frostbites,Dessert Shop,Cerritos,Cerritos,1
+444,Legg Lake Park,Park,South El Monte,South El Monte,2
+445,Taco Nazo,Mexican Restaurant,South El Monte,South El Monte,2
+446,Whittier Narrows Tennis Center,Other Great Outdoors,South El Monte,South El Monte,2
+447,In-N-Out Burger,Fast Food Restaurant,Santa Fe Springs,Santa Fe Springs,3
+448,Farmer Boys,Sandwich Place,Santa Fe Springs,Santa Fe Springs,3
+449,IHOP,Breakfast Spot,Santa Fe Springs,Santa Fe Springs,3
+450,Terranea Resort,Resort,Rancho Palos Verdes,Rancho Palos Verdes,1
+451,Point Vicente Interpretive Center,Scenic Lookout,Rancho Palos Verdes,Rancho Palos Verdes,1
+452,Trader Joe's,Grocery Store,Rancho Palos Verdes,Rancho Palos Verdes,1
+453,Golden Bowl,Asian Restaurant,South Gate,South Gate,2
+454,Tierra Mia Coffee,Coffee Shop,South Gate,South Gate,2
+455,Blaze Pizza,Pizza Place,South Gate,South Gate,2
+456,Young Dong Tofu,Korean Restaurant,Diamond Bar,Diamond Bar,1
+457,Diamond Bar International Delicatessen,Sandwich Place,Diamond Bar,Diamond Bar,1
+458,Super H Mart,Supermarket,Diamond Bar,Diamond Bar,1
+459,Porto's Bakery & Cafe,Cuban Restaurant,Downey,Downey,3
+460,Walmart Supercenter,Big Box Store,Downey,Downey,3
+461,Cinemark,Movie Theater,Downey,Downey,3
+462,Fly Studios Kidz Aerial Arts,Summer Camp,Redondo Beach,Redondo Beach,1
+463,Redondo Beach,Beach,Redondo Beach,Redondo Beach,1
+464,Blue Salt Fish Grill,Seafood Restaurant,Redondo Beach,Redondo Beach,1
+465,Frank G. Bonelli Regional Park,Park,San Dimas,San Dimas,3
+466,Klatch Coffee - San Dimas,Coffee Shop,San Dimas,San Dimas,3
+467,Trader Joe's,Grocery Store,San Dimas,San Dimas,3
