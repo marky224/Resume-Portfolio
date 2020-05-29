@@ -11,6 +11,8 @@ Mark's Data Science Project | Data Source
 
 ## Mark's Data Science Skills
    - Data Science skills include:
+   - Project Formulation
+   - Experiment Design
    - Data Import and Export
    - Extract, Transform and Load
    - Exploratory Data Analysis
