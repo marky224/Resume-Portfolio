@@ -2,12 +2,12 @@
 A repository that includes Mark's data science resume portfolio and Mark's data science projects
 
 Mark's Data Science Project | Link
---- | ---
-   - Marketing Funnel Analytics, Time Series, Segmentation and Forecast -| Kaggle Dataset (in progress)
-   - New Customer Profit Predictor Model -| [KPMG Virtual Internship](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/KPMG%20Internship)
-   - Venture Funding News Web Scraping and SQL Store -| VCNewsDaily.com
-   - Real Estate Price Predictor -| Kaggle Dataset and Competition
-   - LA County City Segmentation and Graphs -| Data from LA County (data.lacounty.gov)
+--------------------------- | ----
+   Marketing Funnel Analytics, Time Series, Segmentation and Forecast | Kaggle Dataset (in progress)
+   New Customer Profit Predictor Model | [KPMG Virtual Internship](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/KPMG%20Internship)
+   Venture Funding News Web Scraping and SQL Store | VCNewsDaily.com
+   Real Estate Price Predictor | Kaggle Dataset and Competition
+   LA County City Segmentation and Graphs | Data from LA County (data.lacounty.gov)
 
 ## Mark's Data Science Skills
    - Data Science skills include:
