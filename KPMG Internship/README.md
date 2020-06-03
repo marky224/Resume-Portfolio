@@ -2,7 +2,7 @@
 Stage 1: Research Question:
 - Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets - by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather). (Why)
 - To uncover underlying trends in seasonal sales, product features and demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
-- Allowing teams to understand their average customer lifetime value (CLV), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
+- Allowing teams to understand: what customer features drive higher customer lifetime value (CLV), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
 
 Stage 2: Acquire Data
 - A
