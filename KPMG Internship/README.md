@@ -1,6 +1,6 @@
 ## Project Overview
 Stage 1: Research Question:
-- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets - by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather, crime rates. etc) to predict sales. (Why)
+- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets - by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather, crime rates, gas prices, etc) to predict sales. (Why)
 - To uncover underlying trends in seasonal sales, product features and customer demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
 - Allowing teams to understand: which customer features drive higher customer lifetime value (and to what degree), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
 
@@ -88,3 +88,6 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
     - Display Customer Lifetime Value by Customer Profile
     - Display Feature Importances by Customer Profile
     - Graph Annual Sales Trends by Customer Profile
+
+Sources
+ - [The Importance of Weather for E-Commerce Orders Forecasting](https://dl.acm.org/doi/abs/10.1145/3385061.3385064)
