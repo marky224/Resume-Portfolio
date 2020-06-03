@@ -89,5 +89,6 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
     - Display Feature Importances by Customer Profile
     - Graph Annual Sales Trends by Customer Profile
 
-Sources
+References
  - [The Importance of Weather for E-Commerce Orders Forecasting](https://dl.acm.org/doi/abs/10.1145/3385061.3385064)
+ - [Whether Weather Matters: Impact of Exogenous Factors on Customers Channel Choice](https://link.springer.com/chapter/10.1007/978-3-030-20119-7_10)
