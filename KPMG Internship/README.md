@@ -24,7 +24,10 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 
 - Intial Analysis
   - Import
-    - Download and Combine KPMG Dataset
+    - Download KPMG Dataset
+    - Scrap and Format Weather Dataset (Temp, rainfall, etc)
+    - Scrap real estate data (average sale price per zip code, average house valuation per community, etc)
+    - Combine Datasets
   - Calculate 3 Year Customer Lifetime Value and Age
     - Download and Combine Add'l City Data
       - Leverage Relevant Social-Demographic Data
