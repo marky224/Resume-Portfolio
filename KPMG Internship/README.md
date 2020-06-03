@@ -27,7 +27,7 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
     - Download KPMG Dataset
     - Download Google Trend Info
       - Bike searches per region
-    - Import add'l sociodemographic info (i.e., voting rates, political affliation, average income, eduation rates, average age, etc - per zip code)
+    - Import add'l sociodemographic info (i.e., purchasing average, purchasing rate average, voting rates, political affliation, average income, eduation rates, average age, etc - per zip code)
     - Scrap and Format Weather Dataset (Temp, rainfall, etc)
     - Scrap real estate data (average sale price per zip code, average house valuation per community, etc)
     - Combine Datasets
