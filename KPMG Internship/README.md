@@ -25,6 +25,7 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 - Intial Analysis
   - Import
     - Download KPMG Dataset
+    - Import add'l sociodemographic info (i.e., average income, eduation rates, aeverage age, etc - per zip code)
     - Scrap and Format Weather Dataset (Temp, rainfall, etc)
     - Scrap real estate data (average sale price per zip code, average house valuation per community, etc)
     - Combine Datasets
