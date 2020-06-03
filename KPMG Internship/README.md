@@ -96,7 +96,7 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
     - Graph Annual Sales Trends by Customer Profile
 
 References
- - [Customer satisfaction and retail sales performance: an empirical investigation(https://www.sciencedirect.com/science/article/abs/pii/S0022435904000594)
+ - [Customer satisfaction and retail sales performance: an empirical investigation](https://www.sciencedirect.com/science/article/abs/pii/S0022435904000594)
  - [The effects of weather on retail sales](https://ideas.repec.org/p/fip/fedgfe/2000-08.html)
  - [The Effects of Technology on Retail Sales, Commercial Property Values and Percentage Rents](https://aresjournals.org/doi/abs/10.5555/repm.6.2.y2002k2632757j07)
  - [The Importance of Weather for E-Commerce Orders Forecasting](https://dl.acm.org/doi/abs/10.1145/3385061.3385064)
