@@ -1,20 +1,24 @@
+# Project Summary
+Retail sales have been shown to be significantly effected by a variety of factors - from customer satisfaction, age, weather, lighting, e-commerce shopping trends. Understanding this, we're going to be helping a bike shop owner understand what customer features they should be focusing on in order to maximize the ROI of their marketing efforts and predict sales of new customers (for current and new markets) by analyzing their customer demographics, transaction history data, and leveraging other variables from outside data as needed (i.e., weather, google trends). The end goal is to help them develop data-driven client profiles based on their transaction data, along with predicting future sales of new customers based on their demographic information.
+
 ## Project Overview
 Stage 1: Research Question:
-- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets - by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather, crime rates, gas prices, etc) to predict sales. (Why)
-- To uncover underlying trends in seasonal sales, product features and customer demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
-- Allowing teams to understand: which customer features drive higher customer lifetime value (and to what degree), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
+- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts for current and new markets - by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather, crime rates, gas prices, etc) to predict new sales. (Why)
+- By uncover underlying trends in seasonal sales, product features and customer demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
+- Allowing teams to: understand which customer features drive higher customer lifetime value (and to what degree), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
+
 
 Stage 2: Acquire Data
-- A
+- Below
 
 Stage 3: Data Exploration
-- A
+- Below
 
 Stage 4: Data Model
-- A
+- Below
 
 Stage 5: Data Communication
-- A
+- Pending
 
 ## Project Outline
 Analyzing customer and transaction data to allow a bike shop owner to maximize their marketing ROI for going into new markets by:
@@ -92,6 +96,9 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
     - Graph Annual Sales Trends by Customer Profile
 
 References
+ - [Customer satisfaction and retail sales performance: an empirical investigation(https://www.sciencedirect.com/science/article/abs/pii/S0022435904000594)
+ - [The effects of weather on retail sales](https://ideas.repec.org/p/fip/fedgfe/2000-08.html)
+ - [The Effects of Technology on Retail Sales, Commercial Property Values and Percentage Rents](https://aresjournals.org/doi/abs/10.5555/repm.6.2.y2002k2632757j07)
  - [The Importance of Weather for E-Commerce Orders Forecasting](https://dl.acm.org/doi/abs/10.1145/3385061.3385064)
  - [Whether Weather Matters: Impact of Exogenous Factors on Customers Channel Choice](https://link.springer.com/chapter/10.1007/978-3-030-20119-7_10)
  - [Statistical Machine Learning Model for Stochastic Optimal Planning of Distribution Networks Considering a Dynamic Correlation and Dimension Reduction](https://ieeexplore.ieee.org/abstract/document/8999581)
