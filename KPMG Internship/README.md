@@ -1,34 +1,34 @@
 ## Project Overview
 Stage 1: Research Question:
-	- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets, by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather). (Why)
-	- To uncover underlying trends in seasonal sales, product features and demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
-	- Allowing teams to understand their average customer lifetime value (CLV), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
+- Allowing a bike shop owner to understand what customer features they should focus on in order maximize the ROI of their marketing efforts when entering new markets, by analyzing transaction history, customer data, and adding other relevant datasets (i.e., weather). (Why)
+- To uncover underlying trends in seasonal sales, product features and demograhics that are significantly correlated with positive purchasing behaviors (i.e., sales volumne, profit). (How)
+- Allowing teams to understand their average customer lifetime value (CLV), develop ideal numbers of customer profiles based on data, and predict customer lifetime value for new customers based on their demograhics. (What)
 
 Stage 2: Acquire Data
-	-
+- A
 
 Stage 3: Data Exploration
-	-
+- A
 
 Stage 4: Data Model
-	-
+- A
 
 Stage 5: Data Communication
-	-
+- A
 
 ## Project Outline
-- Analyzing customer and transaction data to allow a bike shop owner to maximize their marketing ROI for going into new markets by:
-	- Identify which customer features drive purchases (i.e., age, wealth, city) and understand to what degree they influence purchases
-	- Determine how many customer profiles should be developed, along with identifying feature averages for each customer profile
-	- Calculate customer lifetime value (CLV) for current customers and predicting CLV of new customers based on their feature profile
+Analyzing customer and transaction data to allow a bike shop owner to maximize their marketing ROI for going into new markets by:
+- Identify which customer features drive purchases (i.e., age, wealth, city) and understand to what degree they influence purchases
+- Determine how many customer profiles should be developed, along with identifying feature averages for each customer profile
+- Calculate customer lifetime value (CLV) for current customers and predicting CLV of new customers based on their feature profile
 
-  - Intial Analysis
-		- Import
-			- Download and Combine KPMG Dataset
-				- Calculate 3 Year Customer Lifetime Value and Age
-			- Download and Combine Add'l City Data
-				- Leverage Relevant Social-Demographic Data
-		- EDA
+- Intial Analysis
+  - Import
+    - Download and Combine KPMG Dataset
+  - Calculate 3 Year Customer Lifetime Value and Age
+    - Download and Combine Add'l City Data
+      - Leverage Relevant Social-Demographic Data
+  - EDA
 			- Display Dataset Features and Sizes for Customers, New Customers, Transactions and Demographic Data
 			- Display Feature Averages for Customers, New Customers, Transactions and Demographic Data
 			- Plot Annual Sales Trends for Customers
