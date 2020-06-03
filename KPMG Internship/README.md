@@ -68,9 +68,9 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
   - Supervised Machine Learning
   - Evaluation
 [Repeat 'Refine Analysis and Results' until prediction results are accurate]
-  - Cluster Analysis
-    - Unsupervised Machine Learning
-    - Supervised Machine Learning
+- Cluster Analysis
+  - Unsupervised Machine Learning
+  - Supervised Machine Learning
 - Display Results
   - Results
     - Display Model Predictive Power
