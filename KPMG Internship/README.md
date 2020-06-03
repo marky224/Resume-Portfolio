@@ -25,6 +25,8 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 - Intial Analysis
   - Import
     - Download KPMG Dataset
+    - Download Google Trend Info
+      - Bike searches per region
     - Import add'l sociodemographic info (i.e., average income, eduation rates, aeverage age, etc - per zip code)
     - Scrap and Format Weather Dataset (Temp, rainfall, etc)
     - Scrap real estate data (average sale price per zip code, average house valuation per community, etc)
@@ -93,3 +95,4 @@ References
  - [The Importance of Weather for E-Commerce Orders Forecasting](https://dl.acm.org/doi/abs/10.1145/3385061.3385064)
  - [Whether Weather Matters: Impact of Exogenous Factors on Customers Channel Choice](https://link.springer.com/chapter/10.1007/978-3-030-20119-7_10)
  - [Statistical Machine Learning Model for Stochastic Optimal Planning of Distribution Networks Considering a Dynamic Correlation and Dimension Reduction](https://ieeexplore.ieee.org/abstract/document/8999581)
+ - [Exploring the implementation blind spots Selective Decoupling of Freedom of Information](https://www.semanticscholar.org/paper/Exploring-the-implementation-blind-spots-Selective-Kuk/ec1f111b1e53122dc0abec491ce91eff5611f987)
