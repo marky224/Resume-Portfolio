@@ -9,6 +9,7 @@ Mark's Data Science Project | Data Source
    [Real Estate Price Predictor](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/Kaggle%20Competition%20-%20Real%20Estate%20Price%20Predictor) | [Kaggle Dataset and Competition](https://www.kaggle.com/markmarquez/real-estate-price-predictor)
    [LA County City Segmentation and Graphs](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/Coursera%20Capstone) | [California EDD Data Library](https://data.edd.ca.gov/)
 
+
 ## Mark's Data Science Skills
    - Data Science skills include:
    - Project Formulation
@@ -24,6 +25,9 @@ Mark's Data Science Project | Data Source
    - Data Visualizations
    - K-Means and Principal Component Analysis
    - Supervised and Unsupervised Machine Learning
+
+# Mark's Online Resume Website
+[Mark's Online Resume Website Link](https://marky224.github.io/Online_Resume_Website/)
 
 ## Mark's Technical Skills
    - Jupyter Notebook (Python)
