@@ -10,28 +10,28 @@ Mark's Data Science Project | Data Source
    [LA County City Segmentation and Graphs](https://github.com/MarkMarquez0224/Resume-Portfolio/tree/master/Coursera%20Capstone) | [California EDD Data Library](https://data.edd.ca.gov/)
 
 
-## Mark's Data Science Skills
-   - Data Science skills include:
-   - Project Formulation
-   - Experiment Design
-   - Data Import and Export
-   - Extract, Transform and Load
-   - Exploratory Data Analysis
-   - Data Cleaning
-   - Model Building and Evaluation
-   - Feature Selection and Engineering
-   - Model Refinement and Evaluation
-   - Data Correlations
-   - Data Visualizations
-   - K-Means and Principal Component Analysis
-   - Supervised and Unsupervised Machine Learning
-
 # Mark's Online Resume Website
 [Mark's Online Resume Website Link](https://marky224.github.io/Online_Resume_Website/)
 
-## Mark's Technical Skills
-   - Jupyter Notebook (Python)
-   - Python Analysis (Numpy, SciPy, Pandas, Geopandas)
-   - Python AI, Machine Learning and Deep Learning (scikit-learn)
-   - Python Visualization (Matplotlib, Seaborn)
-   - Python Web Scraping (BeautifulSoup)
+
+# Technical Languages
+   - Python (JupyterLab, Atom, PyCharm)
+   - SQL (MS SQL)
+   - Markdown (GitHub)
+   - HTML (Web scraping)
+# Extract, Transform, Load
+   - Feature Analysis, Selection, Engineering (Numpy, Pandas)
+   - Location Data (GeoPy, ArcGIS, Foursquare)
+   - Visuals (Matplotlib, Seaborn, Plotly, Scikit-learn)
+   - Web scraping (BeautifulSoup4)
+   - Python SQL (SQLAlchemy)
+# Machine Learning
+   - Predictive Models
+   - Decision Trees, Boost Gradient
+   - Clustering, Classification
+   - Dimension Reduction
+# Statistics
+   - Sales Forecasting
+   - Experiment Design
+   - A/B Testing, Time Series
+   - Regression
