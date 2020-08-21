@@ -1,5 +1,5 @@
 # Project Summary
-Through a dataset provided by the US government, helping people who are potentially interested in moving to LA County to understand the sociodemographic make-up of it's communities. Grouping cities based on common sociodemographic traits and developing benchmarks scores for each group. Along with developing visuals to compare cities and groups of cities.
+Through a dataset provided by the US government, helping people who are potentially interested in moving to LA County to understand the sociodemographic make-up of its communities. Grouping cities based on common sociodemographic traits and developing benchmarks scores for each group. Along with developing visuals to easily compare cities and groups of cities.
 
 ## Project Goals
 Analyzing and exploring LA County data to help a potential new Angelo help find the best spot to move to, based on their income and living standards:
