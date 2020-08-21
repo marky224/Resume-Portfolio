@@ -12,6 +12,7 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 # Project Outline
 Data Import:
 - Data was imported from a excel file titled 'Sprocket Central Data - KPMG.xlsx' that was provided by KPMG through their virtual internship, with the data being modeled off of typical customer data. There were four datasets in the excel file: Customer Address, Customer Demographics, New Customers (Address and Demographics), Transactions
+
 Data Exploration:
 - From our initial analysis of the data, we found several non-relevent columns and also found that missing data was concentrated in a few rows that offered no opportunity for imputation
 Data Cleaning:
