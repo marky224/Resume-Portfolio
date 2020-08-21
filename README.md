@@ -13,24 +13,24 @@ Mark's Data Science Project | Data Source
 # Mark's Online Resume Website
 [Mark's Online Resume Website Link](https://marky224.github.io/Online_Resume_Website/)
 
-
-# Technical Languages
+# Data Science Skills
+## Languages
    - Python (JupyterLab, Atom, PyCharm)
    - SQL (MS SQL)
    - Markdown (GitHub)
    - HTML (Web scraping)
-# Extract, Transform, Load
+## Extract, Transform, Load
    - Feature Analysis, Selection, Engineering (Numpy, Pandas)
    - Location Data (GeoPy, ArcGIS, Foursquare)
    - Visuals (Matplotlib, Seaborn, Plotly, Scikit-learn)
    - Web scraping (BeautifulSoup4)
    - Python SQL (SQLAlchemy)
-# Machine Learning
+## Machine Learning
    - Predictive Models
    - Decision Trees, Boost Gradient
    - Clustering, Classification
    - Dimension Reduction
-# Statistics
+## Statistics
    - Sales Forecasting
    - Experiment Design
    - A/B Testing, Time Series
