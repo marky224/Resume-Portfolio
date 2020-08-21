@@ -4,9 +4,9 @@ Through data that is sourced from VCNewsDaily, collecting information on new ven
 
 ## Project Goals
 Analyzing data on new funding rounds and the funded companies to help teams maximize the ROI of new/innovative markets by:
-- A
-- B
-- C
+- Collecting data on venture captical funding rounds and the venture-funded companies.
+- Cleaning/formatting the collected data and ordering it by funding date and time.
+- Storing information into various forms of data such as excel, csv and SQL.
 
 
 # Project Outline
