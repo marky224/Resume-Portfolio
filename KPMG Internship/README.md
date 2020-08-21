@@ -10,7 +10,8 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 
 
 # Project Outline
-- Data Import
+Data Import:
+- Data was imported from a excel file titled 'Sprocket Central Data - KPMG.xlsx' that was provided by KPMG through their virtual internship, with the data being modeled off of typical customer data
 - Data Exploration
 - Data Cleaning
 - Data Engineering
