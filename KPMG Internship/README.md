@@ -14,10 +14,11 @@ Data Import:
 - Data was imported from a excel file titled 'Sprocket Central Data - KPMG.xlsx' that was provided by KPMG through their virtual internship, with the data being modeled off of typical customer data. Four datasets were provided in the excel file: Customer Address, Customer Demographics, New Customers (Address and Demographics), Transactions
 
 Data Exploration:
-- From our initial analysis of the data, we found several non-relevent columns and also found that missing data was concentrated in a few rows that offered no opportunity for imputation
+- From our initial analysis of the data, we found several non-relevent columns and also found that missing data was concentrated in a few rows
+- Customer Demographic: 96.61% of the data is intact, columns 'default' were removed, rows without birthdates were removed
 
 Data Cleaning:
-- B
+- Customer Demographic:
 
 Data Engineering:
 - C
