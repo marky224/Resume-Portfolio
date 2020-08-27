@@ -12,7 +12,7 @@ Introduction:
 
 Methods:
 
-
+The dataset for our study came from a KPMG virtual internship for a bicycle shop based in Australia, with the data being modeled after customer data with similar business profiles. The dataset 
 
 Results:
 
