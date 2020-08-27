@@ -14,11 +14,7 @@ Introduction:
 
 Methods:
 
-Our study's dataset came from a KPMG virtual internship for a bicycle shop based in Australia, with the dataset being modeled after customer datasets that have similar business profiles. The dataset came in the form of an excel sheet and included the followed four datasets: Customer Address, Customer Demographic, Transactions, New Customers (Address and Demographics). The dataset for 'New Customers' was disregarded since 'Transactions' only had customer ID numbers for the 'Customer' dataset. For the initial data quality check, we checked the completeness of our data to see that DATASET had ##% of complete data, DATASET had ##% of complete data and DATASET had ##% of complete data.
-
-(Image)
-
-For our initial data clean, columns without relevant data were removed and rows without date of births were also removed.
+Our study's dataset came from a KPMG virtual internship for a bicycle shop based in Australia, with the dataset being modeled after customer datasets that have similar business profiles. The dataset came in the form of an excel sheet and included the followed four datasets: Customer Demographic, Customer Address, Transactions, New Customers (Address and Demographics). The dataset for 'New Customers' was disregarded since 'Transactions' only had customer ID numbers for the 'Customer' dataset. For the initial data quality check, we checked for duplicates in Customer ID We also checked the completeness of our data to see that Customer Demographic had 96.61% of complete data, Customer Address had 100% of complete data and Transactions also had 100% of complete data. For our initial data clean, we merged the datasets Customer Demographic and Customer Address together, and then we removed the columns without relevant data and also removed the rows without date of births. We also removed customers who were also marked as deceased and/or born before 1900.
 
 Results:
 
