@@ -13,7 +13,7 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 
 Introduction:
 
-  As the popularity of online sales continues to grow as a sales channel for most companies, so is the importance of using online marketing to help facilitate in-store purchases as well. And while most companies are doing a great job of acquring and storing their customers' information (via rewards programs and email lists), most of these companies oftentimes have a tough time on using this data from there. 
+  As the popularity of online sales continues to grow as a sales channel for most companies, so is the importance of using online marketing to help facilitate in-store purchases as well. And while most companies are doing a great job of acquring and storing their customers' information (via rewards programs and email lists), most companies are having a tough time using that data from there. 
   In this study, we're going to be helping a bike shop owner maximize their database for customers and transactions, to help focus their marketing efforts on the customer segments that is most profitable and drives the most sales, by creating customer profiles to focus on.
 
 Methods:
