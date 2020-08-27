@@ -1,5 +1,7 @@
 # Project Summary (Work in progress)
-## Abstract
+## Using CRM Data to Identify Ideal Customers and Predict New Sales
+
+Abstract:
 
 Through a dataset provided by KPMG, helping a bicycle shop owner maximize their Marketing ROI by using their historical data on customers and transactions. Developing customer profiles based on data and helping to estimate news sales based on customer demographic information.
 
@@ -12,7 +14,7 @@ Introduction:
 
 Methods:
 
-The dataset for our study came from a KPMG virtual internship for a bicycle shop based in Australia, with the data being modeled after customer data with similar business profiles. The dataset 
+The dataset for our study came from a KPMG virtual internship for a bicycle shop based in Australia, with the data being modeled after customer data with similar business profiles. The dataset came in an excel sheet and included the followed four datasets: Customer Address, Customer Demographic, Transactions, New Customers (Address and Demographics). 
 
 Results:
 
