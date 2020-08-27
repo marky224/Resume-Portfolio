@@ -9,22 +9,17 @@ Analyzing customer and transaction data to allow a bike shop owner to maximize t
 - Calculate customer lifetime value (CLV) for current customers and predicting CLV of new customers based on their demographic information
 
 
-# Project Outline
-Data Import:
-- Data was imported from a excel file titled 'Sprocket Central Data - KPMG.xlsx' that was provided by KPMG through their virtual internship, with the data being modeled off of typical customer data. Four datasets were provided in the excel file: Customer Address, Customer Demographics, New Customers (Address and Demographics), Transactions
+Introduction:
+  As online sales to grow as a sales channel for most companies, so does the importance of using online marketing to help facilitate in-store purchases as well. And while most companies do a great job of acquring and storing their customers' information (via rewards programs and email lists), most of these companies oftentimes have a tough time on using this data to create customer profiles that help drive new sales by maximizng their marketing team's messaging. 
+  In this study, we're going to be helping a bike shop owner maximize their database for customers and transactions, to help focus their marketing efforts on the customer segments that is most profitable and drives the most sales.
 
-Data Exploration:
-- From our initial analysis of the data, we found several non-relevent columns and also found that missing data was concentrated in a few rows
-- Customer Demographic: 96.61% of the data is intact, columns 'default' were removed, rows without birthdates were removed
+Methods:
 
-Data Cleaning:
-- Customer Demographic:
+Results:
 
-Data Engineering:
-- C
+Discussion:
 
-Data Model:
-- D
+Title:
+- Predicting Profits from New Customers based on Sociodemographic Data
 
-Data Results:
-- E
+Abstract:
