@@ -1,5 +1,6 @@
 # Project Summary (Work in progress)
-Abstract
+## Abstract
+
 Through a dataset provided by KPMG, helping a bicycle shop owner maximize their Marketing ROI by using their historical data on customers and transactions. Developing customer profiles based on data and helping to estimate news sales based on customer demographic information.
 
 
