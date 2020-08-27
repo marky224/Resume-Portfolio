@@ -15,7 +15,9 @@ Introduction:
 Methods:
 
 Our study's dataset came from a KPMG virtual internship for a bicycle shop based in Australia, with the dataset being modeled after datasets of customers that have similar business profiles. The dataset came in the form of an excel sheet and included the followed four datasets: Customer Address, Customer Demographic, Transactions, New Customers (Address and Demographics). The dataset for 'New Customers' was disregarded since 'Transactions' only had customer ID numbers for the 'Customer' dataset. For the initial data quality check, we checked the completeness of our data to see that DATASET had ##% of complete data, DATASET had ##% of complete data and DATASET had ##% of complete data.
+
 (Image)
+
 For our initial data clean, columns without relevant data were removed and rows without date of births were also removed.
 
 Results:
