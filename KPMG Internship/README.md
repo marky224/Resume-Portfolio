@@ -1,5 +1,5 @@
 # Project Summary (Work in progress)
-## Using CRM Data to Identify Ideal Customers and Predict New Sales
+## Identifying Ideal Customers and Predicting New Sales with CRM Data
 
 Abstract:
 
