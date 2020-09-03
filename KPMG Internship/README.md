@@ -23,7 +23,7 @@ Our initial results showed us that while most bikes sales come from bike types t
 ![](images/Transactions%20by%20Bike.PNG)
 We further explore this by looking to see if there are any trends that appear in monthly sales, and if it makes sense to focus advertisement for these bike lines to certain times of the year. Unfortunately, we found no monthly trends in bike sales by bike type.
 
-![](Transactions by Bike - Monthly.PNG)
+![](Transactions%20by%20Bike%20-%20Monthly.PNG)
 
 Discussion:
 
