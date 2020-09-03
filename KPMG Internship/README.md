@@ -19,12 +19,13 @@ Our study's dataset came from a KPMG virtual internship for a bicycle shop based
 Results:
 
 Our initial results showed us a seasonal spikes in monthly sales due to both summer weather and holiday shopping, with sales ramping up in June and then slowing down in September, before ramping back up again in October and slowing back down in December.
+
 ![](images/Transactions%20by%20Month.png)
 
 Our results after that showed us while most bikes sales came from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
 
 ![](images/Transactions%20by%20Bike.PNG)
-We further explore this by looking to see if there are any trends that appear in monthly sales, and if it makes sense to focus advertisement for these bike lines to certain times of the year. Unfortunately, we found no monthly trends in bike sales by bike type.
+We further look into any potential trends in sales by bike types by looking to see if there are any trends that appear in monthly sales -- to see if it would make sense to focus advertisement for these bike lines on certain times of the year. Unfortunately, we found no such monthly trends in bike sales by bike type.
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
