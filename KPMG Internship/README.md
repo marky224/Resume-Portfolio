@@ -3,7 +3,7 @@
 
 Abstract:
 
-Through a dataset provided by KPMG, we're going to be helping a bicycle shop owner maximize their marketing ROI by using their historical data on customers and transactions. Developing customer profiles based on data and helping to estimate news sales based off of previous transactions and customer demographic information.
+Through a dataset provided by KPMG, we're going to be helping a bicycle shop based in Australia owner maximize their marketing ROI by using their historical data on customers and transactions. Developing customer profiles based on data and helping to estimate news sales based off of previous transactions and customer demographic information.
 
 
 Introduction:
@@ -38,9 +38,7 @@ What was uncovered in the transaction dataset is the clear difference in profita
 
 ![](images/Average%20Monthly%20Profits%20per%20Transaction%20by%20Wealth.png)
 
-After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group.
-
-North and South Australia
+After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group - other then sales concentrated among major cities along the coast.
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
