@@ -40,13 +40,11 @@ What was uncovered in the transaction dataset is the clear difference in profita
 
 After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group.
 
-North Australia
+North and South Australia
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
-South Australia
-
-![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
+![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South%20.PNG)
 
 One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in.
 
