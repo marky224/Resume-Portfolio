@@ -44,7 +44,7 @@ North and South Australia
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
-![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South%20.PNG)
+![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
 One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in.
 
