@@ -19,7 +19,7 @@ Our study's dataset came from a KPMG virtual internship for a bicycle shop based
 Results:
 
 Our initial results showed us a standard seasonal sales trend in monthly sales, where sales ramp up in October and slow down in January.
-![](images/Transactions%20by%20Bike.PNG)
+![](images/Transactions%20by%20Month.PNG)
 
 Our results after that showed us while most bikes sales came from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
 
