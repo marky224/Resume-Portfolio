@@ -18,7 +18,10 @@ Our study's dataset came from a KPMG virtual internship for a bicycle shop based
 
 Results:
 
-Our initial results showed us that while most bikes sales come from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
+Our initial results showed us a standard seasonal sales trend in monthly sales, where sales ramp up in October and slow down in January.
+![](images/Transactions%20by%20Bike.PNG)
+
+Our results after that showed us while most bikes sales came from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
 
 ![](images/Transactions%20by%20Bike.PNG)
 We further explore this by looking to see if there are any trends that appear in monthly sales, and if it makes sense to focus advertisement for these bike lines to certain times of the year. Unfortunately, we found no monthly trends in bike sales by bike type.
