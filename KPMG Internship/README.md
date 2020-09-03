@@ -18,6 +18,8 @@ Our study's dataset came from a KPMG virtual internship for a bicycle shop based
 
 Results:
 
+![](images/Transactions%20by%20Bike.PNG)
+
 Discussion:
 
 Title:
