@@ -32,19 +32,21 @@ We further look into any potential trends in sales by bike types by looking to s
 
 We further explore our customers by seeing how many bikes they have purchased from the store in the last 3 years. We see that 3 to 8 bike purchases covers the majority of customers.
 
-![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
+![](images/Average%20Customer%20Transactions.PNG)
 
 What was uncovered in the transaction dataset is the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
-![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
+![](images/Average%20Monthly%20Profits%20per%20Transaction%20by%20Wealth.png)
 
 After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group.
 
-![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
+![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
+
+![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
 One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in.
 
-![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
+![](images/Property%20Values.png)
 
 Discussion:
 
