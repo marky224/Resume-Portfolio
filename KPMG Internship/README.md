@@ -44,7 +44,7 @@ After uncovering the significant differences in profit by customer segment, we m
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
-One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in.
+One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in -- with 7 to 11 being the most popular range.
 
 ![](images/Property%20Values.png)
 
