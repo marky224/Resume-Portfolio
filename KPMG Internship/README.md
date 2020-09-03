@@ -25,7 +25,8 @@ Our initial results showed us a seasonal spikes in monthly sales due to both sum
 Our results after that showed us while most bikes sales came from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
 
 ![](images/Transactions%20by%20Bike.PNG)
-We further look into any potential trends in sales by bike types by looking to see if there are any trends that appear in monthly sales -- to see if it would make sense to focus advertisement for these bike lines on certain times of the year. Unfortunately, we found no such monthly trends in bike sales by bike type.
+
+We further look into any potential trends in sales by bike types by looking to see if there are any trends that appear in monthly sales -- to see if it would make sense to focus advertisement for these bike lines on certain times of the year. Unfortunately, we found no such monthly trends in bike sales by bike type, with bike sales by bike types following similar trends overall.
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
