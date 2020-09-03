@@ -30,7 +30,7 @@ We further look into any potential trends in sales by bike types by looking to s
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
-We further explore our customers by seeing how many bikes they have purchased from the store in the last 3 years. We see that 3 to 8 bike purchases covers the majority of customers.
+We further explore our customers by seeing how many bikes they have purchased from the store in the last 3 years. We see that 3 to 8 bike purchases covers the majority of customers - so 1 to 3 annual bike purchases per customer seems to be the average.
 
 ![](images/Average%20Customer%20Transactions.PNG)
 
