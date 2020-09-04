@@ -48,7 +48,7 @@ After uncovering the significant differences in profit by customer segment, we m
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
-We also explore customers by date of birth and wealth, but see customers in each group even distributed according to the overall customer age trend (40 - 50 years old).
+We also explore customers by date of birth and wealth, but see customers in each group had a similiar distribution to the overall customer age trend (40 - 50 years old).
 
 ![](images/Customers%20by%20Wealth%20by%20Birth%20Year.png)
 
