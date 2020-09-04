@@ -30,6 +30,10 @@ We further look into any potential trends in sales by bike types by looking to s
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
+Then we start our initial exploration into the customer based to find any trends and see that most of the customer base seems to be concentrated between 1971 to 1981 -- which makes our most popular age group people between 40 and 50 years of age.
+
+![](images/Customers%20by%20DOB.png)
+
 We further explore our customers by seeing how many bikes they have purchased from the store in the last 3 years. We see that 3 to 8 bike purchases covers the majority of customers - so 1 to 3 annual bike purchases per customer seems to be the average.
 
 ![](images/Average%20Customer%20Transactions.PNG)
@@ -43,6 +47,8 @@ After uncovering the significant differences in profit by customer segment, we m
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
+
+(Customers by DOB by Wealth)
 
 One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in -- with 7 to 11 being the most popular range.
 
