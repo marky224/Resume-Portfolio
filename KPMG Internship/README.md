@@ -48,9 +48,11 @@ After uncovering the significant differences in profit by customer segment, we m
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
-(Customers by DOB by Wealth)
+We also explore customers by date of birth and wealth, but see customers in each group even distributed according to the overall customer age trend (40 - 50 years old).
 
-One thing that does stand out from a geographic standpoint, is the average property value that most customers reside in -- with 7 to 11 being the most popular range.
+![](images/Customers%20by%20Wealth%20by%20Birth%20Year.png)
+
+One last thing that stood out from a geographic standpoint, is the average property value that most customers reside in -- with 7 to 11 being the most popular range.
 
 ![](images/Property%20Values.png)
 
