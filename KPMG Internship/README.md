@@ -36,7 +36,7 @@ We further explore our customers by seeing how many bikes they have purchased fr
 
 What was uncovered in the transaction dataset is the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
-![](images/Average%20Monthly%20Profits%20per%20Transaction%20by%20Wealth.png)
+![](images/Average%20Profit%20per%20Transaction%20by%20Wealth.png)
 
 After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group - other then sales concentrated among major cities along the coast.
 
