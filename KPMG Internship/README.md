@@ -58,8 +58,4 @@ One last thing that stood out from a geographic standpoint, is the average prope
 
 Discussion:
 
-Title:
-
-- Predicting Profits from New Customers based on Sociodemographic Data
-
-Abstract:
+So seeing that...
