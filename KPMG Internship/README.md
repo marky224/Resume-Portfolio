@@ -1,5 +1,5 @@
 # Project Summary (Work in progress)
-## Using CRM Data to Identify Ideal Customer Profile
+## Using CRM Data to Identify Important Factors for Ideal Customer Profile
 
 Abstract:
 
