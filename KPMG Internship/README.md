@@ -52,7 +52,7 @@ We also explore customers by date of birth and wealth, but see customers in each
 
 ![](images/Customers%20by%20Wealth%20by%20Birth%20Year.png)
 
-One last thing that stood out from a geographic standpoint, is the average property value that most customers reside in -- with 7 to 11 being the most popular range.
+Given the differences in customers by wealth group, one last thing that stood out from a geographic standpoint, is that most customers reside in areas that have similar property values -- with 7 to 11 being the most popular range.
 
 ![](images/Property%20Values.png)
 
