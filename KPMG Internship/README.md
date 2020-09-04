@@ -58,4 +58,4 @@ Given the differences in customers by wealth group, one last thing that stood ou
 
 Discussion:
 
-So seeing that...
+So from our exploration of the data, we can see how their is an ideal customer profile for this bike shop in the form of some who is between 40 to 50 years of range, within their 'mass customer' group, with property valuing between 7 to 11. 
