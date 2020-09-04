@@ -3,7 +3,7 @@
 
 Abstract:
 
-Through a dataset provided by KPMG, we're going to be helping a bicycle shop based in Australia owner maximize their marketing ROI by using their historical data on customers and transactions. Developing customer profiles based on data and helping to estimate news sales based off of previous transactions and customer demographic information.
+Through a dataset provided by KPMG, we're going to be helping a bicycle shop owner that is based in Australia to maximize their marketing ROI by using their historical data on customers and transactions. For developing customer profiles based on data and helping to estimate news sales based off of previous transactions and customer demographic information.
 
 
 Introduction:
