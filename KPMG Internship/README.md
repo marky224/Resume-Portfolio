@@ -58,4 +58,4 @@ Given the differences in customers by wealth group, one last thing that stood ou
 
 Discussion:
 
-So from our exploration of the data, we can see how their is an ideal customer profile for this bike shop in the form of some who is between 40 to 50 years of range, within their 'mass customer' group, with property valuing between 7 to 11. 
+So from our exploration of the data, we can see how their is an ideal customer profile for this bike shop in the form of some who is between 40 to 50 years of range, within their 'mass customer' group, with property values ranging between 7 to 11. And while our original goal of the study was to also develop a predictive model to help determine new purchases, we weren't able to create a successful model without reference the total number of bikes purchases that had been made in the past 3 years. While this was something that was taken out to help the adaptability of the model onto real data, in retrospect, this is something that can be further explore by...
