@@ -7,7 +7,7 @@ Through a dataset provided by KPMG, an Australian bicycle shop owner was looking
 
 Introduction:
 
-  As online sales continue to grow for most companies, so is the importance of using online marketing to help drive in-store traffic/sales as well. And while most companies are doing a great job of acquring and storing their customers' information into a customer relationship management (CRM) database (via rewards programs and email lists), most companies are having a tough time using that data to help drive new sales from there.
+  As online sales continue to grow for most companies, so is the importance of using online marketing to help drive in-store traffic/sales as well. And while most companies are doing a great job of acquring and storing their customers' information into a customer relationship management (CRM) database via rewards programs and email lists, most companies are having a tough time using that data to help drive new sales from there.
   
   In this study, an Australian bike shop owner overcame this dilemma (and will hopefully be maximizing their marketing ROI) when they used their CRM data on transactions and customers for the past 3 years. By analyzing the data and trends, this allowed for the creation of a data-driven customer profile, along with a potential predictive models to help predict new sales for individual customers in real-time. Our goals were to identify yearly and monthly sales trends, identify profitable customer segments and bike lines, identify top-selling bike lines and top-purchasing customers, and identify the customer traits associated with higher profits / more frequent purchases.
 
