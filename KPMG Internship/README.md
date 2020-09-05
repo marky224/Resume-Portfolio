@@ -1,5 +1,5 @@
 # Project Summary (Work in progress)
-## Using CRM Data to Identify Important Factors for Ideal Customer Profile
+## Using CRM Data to Identify Ideal Customer Profiles and Predict New Sales
 
 Abstract:
 
@@ -21,14 +21,15 @@ The initial results showed two seasonal spikes in monthly sales due to both summ
 
 ![](images/Transactions%20by%20Month.png)
 
-Our results after that showed us while most bikes sales came from bike types that were either 'standard' or 'road', the bike types 'mountain' and 'road' proved to be a lot more profitable.
+The results then showed that while most bikes sales came from 'standard' or 'road' bike types, it was the 'mountain' and 'road' bike types that proved to be a lot more profitable.
 
 ![](images/Transactions%20by%20Bike.PNG)
 
-We further look into any potential trends in sales by bike types by looking to see if there are any trends that appear in monthly sales -- to see if it would make sense to focus advertisement for these bike lines on certain times of the year. Unfortunately, we found no such monthly trends in bike sales by bike type, with bike sales by bike types following similar trends overall.
+Given these insights on bike type profitability, potential trends in sales by bike types were further looked into by analyzing trends in monthly bike sales -- to see if it would make sense to focus advertisement for these bike lines on certain times of the year. Unfortunately, no such monthly trends were found for bike sales by bike type, with bike sales by bike types following the same overall sales trend.
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
+Then our initial exploration into the customer base starts by looking for...
 Then we start our initial exploration into the customer based to find any trends and see that most of the customer base seems to be concentrated between 1971 to 1981 -- which makes our most popular age group people between 40 and 50 years of age.
 
 ![](images/Customers%20by%20DOB.png)
