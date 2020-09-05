@@ -3,7 +3,7 @@
 
 Abstract:
 
-Through a dataset provided by KPMG, an Australian bicycle shop owner was looking to maximize their marketing ROI by analyzing data on their customers and transactions for the past 3 years. This was accomplished by developing customer profiles based on data, along with predicting new sales by referencing data on previous transactions and customer demographics. Results provided a data-driven ideal customer profile, along with a predictive model to start off as a base.
+Through a dataset provided by KPMG, an Australian bicycle shop owner was looking to maximize their marketing ROI by analyzing data on their customers and transactions for the past 3 years. This was accomplished by developing customer profiles based on data, along with predicting new sales that referenced data on previous transactions and customer demographics. Results provided a data-driven ideal customer profile, along with a predictive model to start off as a base.
 
 Introduction:
 
