@@ -33,15 +33,15 @@ Then the initial exploration into the customer base starts by seeing that most c
 
 ![](images/Customers%20by%20DOB.png)
 
-Customers purchase frequency were then further explored -- to see that the majority of customers had anywhere between 3-to-8 bike purchases in the past 3 years, which translates into 1-to-3 annual bike purchases per customer on average.
+Customer purchase frequency was then explored -- with that the majority of customers having anywhere inbetween 3-to-8 bike purchases in the past 3 years, which translates into 1-to-3 annual bike purchases per customer on average.
 
 ![](images/Average%20Customer%20Transactions.PNG)
 
-A significan uncovering in the transaction dataset was the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
+A significant uncovering in the transaction dataset was the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
 ![](images/Average%20Profit%20per%20Transaction%20by%20Wealth.png)
 
-After uncovering the significant differences in profit by customer segment, customers were then mapped out by wealth segment (color) and total profits (bubble density). But there were no geographic trends uncovered as it related to differences in customer groups - other then sales being concentrated along major coastal cities.
+After having uncovered the significant differences in profit by customer segment, customers were then mapped out by wealth segment (color) and total profits (bubble density). But there were no geographic trends uncovered - other then sales being concentrated along major coastal cities.
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
