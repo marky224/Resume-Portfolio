@@ -29,33 +29,32 @@ Given these insights on bike type profitability, potential trends in sales by bi
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
-Then our initial exploration into the customer base starts by looking for...
-Then we start our initial exploration into the customer based to find any trends and see that most of the customer base seems to be concentrated between 1971 to 1981 -- which makes our most popular age group people between 40 and 50 years of age.
+Then the initial exploration into the customer base starts by seeing that most customers were born between 1871 to 1981 -- which the most popular age group being in-between 40-to-50 years of age.
 
 ![](images/Customers%20by%20DOB.png)
 
-We further explore our customers by seeing how many bikes they have purchased from the store in the last 3 years. We see that 3 to 8 bike purchases covers the majority of customers - so 1 to 3 annual bike purchases per customer seems to be the average.
+Customers were further explored by analyzing bike purchase frequency -- to see that the majority of customers had anywhere between 3-to-8 bike purchases in the past 3 years, which translates into 1-to-3 annual bike purchases per customer on average.
 
 ![](images/Average%20Customer%20Transactions.PNG)
 
-What was uncovered in the transaction dataset is the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
+A significan uncovering in the transaction dataset was the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
 ![](images/Average%20Profit%20per%20Transaction%20by%20Wealth.png)
 
-After uncovering the significant differences in profit by customer segment, we map out our customers by wealth segment (color) and total profits by bubble density. We didn't uncover any specific geographic trends as they related to differences in customers by customer group - other then sales concentrated among major cities along the coast.
+After uncovering the significant differences in profit by customer segment, customers were then mapped out by wealth segment (color) and total profits (bubble density). But there were no geographic trends uncovered as it related to differences in customer groups - other then sales being concentrated along major coastal cities.
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20South.PNG)
 
-We also explore customers by date of birth and wealth, but see customers in each group had a similiar distribution to the overall customer age trend (40 - 50 years old).
+Customers by date of birth and wealth were also analyzed, but found that customers within each group also had similiar distribution to the overall customer age trend (40 - 50 years old).
 
 ![](images/Customers%20by%20Wealth%20by%20Birth%20Year.png)
 
-Given the differences in customers by wealth group, one last thing that stood out from a geographic standpoint is that most customers reside in areas that have similar property values -- with 7 to 11 being the most popular range.
+Given the differences in customers by wealth group, one last thing that stood out from a geographic standpoint is that most customers reside in areas that have similar property values -- with 7-to-11 being the most popular range.
 
 ![](images/Property%20Values.png)
 
 Discussion:
 
-So from our exploration of the data, we can see how their is an ideal customer profile for this bike shop in the form of some who is between 40 to 50 years of range, within their 'mass customer' group, with property values ranging between 7 to 11. And while our original goal of the study was to also develop a predictive model to help determine new purchases, we weren't able to create a successful model without reference the total number of bikes purchases that had been made in the past 3 years. While this was something that was taken out to help the adaptability of the model onto real data, in retrospect, this is something that can be further explore by cutting the number of transactions to the last one or two years, in order to help with newer customers as well -- with no model being applied to customers under one or two years of age within the CRM. Age of customer record wasn't included in the dataset, so this is something that could help with similiar data in the future.
+So from the exploration of the data, it can be seen how an ideal customer profile for this bike shop formed, in the form of someone who is between 40 to 50 years of range, within the 'mass customer' group, and has property values ranging between 7 to 11. And while our original goal of the study was to also develop a predictive model to help determine new purchases, we weren't able to create a successful model without reference the total number of bikes purchases that had been made in the past 3 years. While this was something that was taken out to help the adaptability of the model onto real data, in retrospect, this is something that can be further explore by cutting the number of transactions to the last one or two years, in order to help with newer customers as well -- with no model being applied to customers under one or two years of age within the CRM. Age of customer record wasn't included in the dataset, so this is something that could help with similiar data in the future.
