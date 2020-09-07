@@ -33,7 +33,7 @@ Then the initial exploration into the customer base starts by seeing that most c
 
 ![](images/Customers%20by%20DOB.png)
 
-Customers were further explored by analyzing bike purchase frequency -- to see that the majority of customers had anywhere between 3-to-8 bike purchases in the past 3 years, which translates into 1-to-3 annual bike purchases per customer on average.
+Customers purchase frequency were then further explored -- to see that the majority of customers had anywhere between 3-to-8 bike purchases in the past 3 years, which translates into 1-to-3 annual bike purchases per customer on average.
 
 ![](images/Average%20Customer%20Transactions.PNG)
 
