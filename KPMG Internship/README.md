@@ -29,7 +29,7 @@ Given these insights on bike type profitability, potential trends in sales by bi
 
 ![](images/Transactions%20by%20Bike%20-%20Monthly.PNG)
 
-Then the initial exploration into the customer base starts by seeing that most customers were born between 1871 to 1981 -- which the most popular age group being in-between 40-to-50 years of age.
+Then the initial exploration into the customer base starts by seeing that most customers were born between 1871 to 1981 -- with the most popular age group being in-between 40-to-50 years of age.
 
 ![](images/Customers%20by%20DOB.png)
 
