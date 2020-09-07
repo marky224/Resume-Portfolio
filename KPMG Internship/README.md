@@ -41,7 +41,7 @@ A significant uncovering in the transaction dataset was the clear difference in 
 
 ![](images/Average%20Profit%20per%20Transaction%20by%20Wealth.png)
 
-After having uncovered the significant differences in profit by customer segment, customers were then mapped out by wealth segment (color) and total profits (bubble density). But there were no geographic trends uncovered - other then sales being concentrated along major coastal cities.
+After having uncovered the significant differences in profit by customer segment, customers were then mapped out by wealth segment (color) and total profits (bubble density). But no geographic trends were uncovered - other then sales being concentrated along major coastal cities.
 
 ![](images/Map%20Bike%20Sales%20by%20Profit%20-%20North.PNG)
 
