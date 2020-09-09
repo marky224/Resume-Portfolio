@@ -21,7 +21,7 @@ The initial results showed two seasonal spikes in monthly sales due to both summ
 
 ![](images/Transactions%20by%20Month.png)
 
-Although there is a the difference in total transactions by month, the average profit per transaction by month seem to be in a consistent range.
+Although there is a the difference in total transactions by month, the average profit per transaction by month seems to be in consistent throughout the year.
 
 ![](images/Transactions%20Profit%20by%20Month.png)
 
