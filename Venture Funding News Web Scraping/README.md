@@ -9,10 +9,18 @@ Analyzing data on new funding rounds and the funded companies to help teams maxi
 - Storing information into various forms of data such as excel, csv and SQL.
 
 
-# Project Outline
+# Intro
+- Overview
+
+# Methods
 - Data Import
 - Data Exploration
 - Data Cleaning
 - Data Engineering
+
+# Results
 - Data Model
 - Data Results
+
+# Discussion
+- Implications and Future Research
