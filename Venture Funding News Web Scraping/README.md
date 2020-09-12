@@ -18,21 +18,28 @@ Analyzing data on new funding rounds and the funded companies, to help teams max
 
 ## Methods
 - Data Import
+  - Website
+![](images/VCNewsDaily%20-%20Website%20Sample.PNG)
   - From HTML
 ![](images/VCNewsDaily%20-%20Website%20HTML%20Sample.PNG)
 
 - Data Exploration
   - Identifying and Merging Data
-- Data Cleaning
-  - Prepping Data for Calculations
-- Data Engineering
-  - Managing SQL Server and Storing Data
+![](images/VCNewsDaily%20Data%20-%20Overview.PNG)
+![](images/VCNewsDaily%20Data%20-%20Funding.PNG)
+![](images/VCNewsDaily%20Data%20-%20Company.PNG)
 
 ## Results
-- Initial Data
-  - HTML Results
-- Data Results
-  - Cleaned Data
+- Data Cleaning
+  - Raw Data
+![](images/VCNewsDaily%20Data%20-%20Raw.PNG)
+  - Prepping Data for Calculations
+![](images/VCNewsDaily%20Data%20-%20Clean.PNG)
+- Data Engineering
+  - Managing SQL Server
+![](images/VCNewsDaily%20Data%20-%20SQL%20Table.PNG)
+  - Storing Data
+![](images/VCNewsDaily%20Data%20-%20SQL.PNG)
 
 ## Discussion
   This study provided the baseline web scraping tool for building a list of venture-funded companies and their funding details/goals.
