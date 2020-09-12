@@ -1,6 +1,6 @@
 # VC Funding Scrap and Store (In Progress)
 
-## Project Goals
+## Overall Project Goals
 Analyzing data on new funding rounds and the funded companies, to help teams maximize the ROI of new/innovative markets by:
 - Collecting data on venture captical funding rounds and the venture-funded companies.
 - Cleaning/formatting the collected data and ordering it by funding date and time.
