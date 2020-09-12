@@ -16,7 +16,7 @@ Analyzing data on new funding rounds and the funded companies, to help teams max
   
   Once collected and stored, this data can then be easily enriched and analyzed to help teams with market research, product development and/or business development. Market research from venture capital activity can be utilized by teams in the private equity and venture capital industries to help identify potential acquisitions / upcoming competitors. Product development teams in the various sciences industries (i.e., biotech, aerospace, electronics) can use VC activity to help identify upcoming technologies / methods that could offer parallel benefits to their own businesses. And business development teams can use VC activity to develop potential leads to go after (if good fit) or use it to systemically go through the targets in their CRM based on funding activity (i.e., similar industry / region).
   
-  While no further analysis was done on the activity in venture capital market [after the clean data was scraped, cleaned and stored], this study provides the baseline tool for web scraping the data that will be needed for such an educational study on venture capital funding in the future.
+  While no further analysis was done on the venture capital funding activity [after the data was scraped, cleaned and stored], this study provides the baseline tool for web scraping the data that will be needed for such an educational study on venture capital funding in the future.
 
 ## Methods
 - Data Import
