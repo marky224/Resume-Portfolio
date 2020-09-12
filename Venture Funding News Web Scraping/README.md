@@ -19,6 +19,8 @@ Analyzing data on new funding rounds and the funded companies, to help teams max
 ## Methods
 - Data Import
   - From HTML
+![](images/VCNewsDaily%20-%20Website%20HTML%20Sample.PNG)
+
 - Data Exploration
   - Identifying and Merging Data
 - Data Cleaning
