@@ -7,10 +7,10 @@ Analyzing data on new funding rounds and the funded companies, to help teams max
 - Storing information into various forms of data such as excel, csv and SQL.
 
 ## Abstract
-Through data that is sourced from VCNewsDaily, this project collects information on: new venture funding rounds, along with the details on the funding round and companies. To develop a clean list of leads [for education purposes] that can be used for various purposes such as: product development, market research and/or business development.
+Through data that is sourced from the VCNewsDaily website, this project collects information on new venture funding rounds, along with the associated details on the funding round and companies. To develop a clean list of leads [for education purposes] that can be used for various purposes such as: product development, market research and/or business development.
 
 ## Intro
-Venture capital as funding type offers huge potential rewards, but at the costs of huge risks as well. In fact, while most start-up companies that receive venture funding never make to their initial public offering (IPO), for those that do end up making it through multiple venture funding rounds to make it to the IPO, this type of funding has been responsible for most (if not all) of the newer tech giants that are synonomous with Silicon Valley: Facebook, Google, Twitter, SalesForce, Uber, Doordash, Tesla, etc. Understanding that venture capital works in stages, there is so much insight that venture funding reveals about developing trends in sales and/or technology. 
+Venture capital as funding type offers huge potential rewards, but at the costs of huge risks as well. In fact, while most start-up companies that receive venture funding never make to their initial public offering (IPO), for those that do grow through multiple venture funds to make it to the IPO, this type of funding has been responsible for most (if not all) of the newer tech giants that are synonomous with Silicon Valley: Facebook, Google, Twitter, SalesForce, Uber, Doordash, Tesla, etc. Understanding that venture capital works in stages, there is so much insight that venture funding reveals about developing trends in sales and/or technology. 
 
 ## Methods
 - Data Import
