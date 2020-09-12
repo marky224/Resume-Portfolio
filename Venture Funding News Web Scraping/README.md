@@ -11,6 +11,7 @@ Through data that is sourced from the VCNewsDaily website, this project collects
 
 ## Intro
   Venture capital as a funding type offers huge potential rewards, but with huge risks as well. In fact, it is well-known that most venture-funded startups never make it to the initial public offering (IPO) stage (which might not always be the most ideal end goal (i.e., acquisition)). But for those that do go through multiple venture funds and make it to the IPO, this type of funding has been responsible for most (if not all) of the newer tech giants that are now synonomous with Silicon Valley (i.e., Facebook, Google, Twitter, SalesForce, Uber, Doordash, Tesla). Given how venture capital works in stages, there is so much insight that venture funding reveals about developing trends in sales and/or technology.
+  
   A team that does a great job of tracking venture capital activity is VCNewsDaily. Their website offers free venture capital details, for the funding round and company, on the 30 most recent fundings on their website at a time. They also have a search tool to search by the alphabet, along with a full catalog of venture capital details for all fundings over the years available for purchase. The goal of the study is to interpret the HTML data on the VCNewsDaily website into clean data that is stored into excel sheets and an SQL database. While no further analysis is done on the venture capital market, this study provides the baseline tool for web scraping the data that will be needed for such an educational study.
 
 ## Methods
