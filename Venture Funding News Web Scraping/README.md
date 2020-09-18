@@ -1,4 +1,4 @@
-# VC Funding Scrap and Store (In Progress)
+# VC Funding Scrap and Store
 
 ## Overall Project Goals
 Analyzing data on new funding rounds and venture-funded companies, helping teams maximize the ROI of their new innovations / markets by:
