@@ -15,7 +15,7 @@ def vc_sql_engine():
     import sqlalchemy
     # Set SQL connection destination
     engine = sqlalchemy.create_engine(
-        'mssql+pyodbc://@DESKTOP-OVRCKME/VCNewsDailyDB?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server')
+        'PRIVATE')
     return engine
 
 
