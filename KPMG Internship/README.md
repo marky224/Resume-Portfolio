@@ -1,4 +1,4 @@
-# Project Summary: Using CRM Data to Identify Ideal Customer Profiles and Predict New Sales
+# Using CRM Data to Identify Ideal Customer Profiles and Predict New Sales
 
 ## Abstract:
 
