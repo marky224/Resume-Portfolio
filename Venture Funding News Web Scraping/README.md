@@ -18,11 +18,15 @@ Analyzing data on new funding rounds and venture-funded companies, helping teams
 
 ## Methods
 The 'VCNewsDaily' website is great for finding details into recent fundings, with very limited search capabilities for non-paid tools.
+
 ![](images/VCNewsDaily%20-%20Website%20Sample.PNG)
+
 Instead, it is going to be the raw HTML Data that is going to be used by being collected, cleaned and stored.
+
 ![](images/VCNewsDaily%20-%20Website%20HTML%20Sample.PNG)
 
 Data Exploration - Identifying and Merging Data
+
 ![](images/VCNewsDaily%20Data%20-%20Overview.PNG)
 ![](images/VCNewsDaily%20Data%20-%20Funding.PNG)
 ![](images/VCNewsDaily%20Data%20-%20Company.PNG)
