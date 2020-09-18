@@ -25,7 +25,7 @@ Instead, the raw HTML Data will be used by being collected, cleaned and stored.
 
 ![](images/VCNewsDaily%20-%20Website%20HTML%20Sample.PNG)
 
-Data Exploration - Identifying and Merging Data
+The raw data for each venture funding round was collected from three online pages - general, funding and company.
 
 ![](images/VCNewsDaily%20Data%20-%20Overview.PNG)
 ![](images/VCNewsDaily%20Data%20-%20Funding.PNG)
