@@ -17,15 +17,12 @@ Analyzing data on new funding rounds and venture-funded companies, helping teams
   While no further analysis was done on the venture capital funding activity in this study [after the data was scraped, cleaned and stored], this study does provide the baseline tool for web scraping the data that will be needed for such an educational study on venture capital funding in the future.
 
 ## Methods
-- Data Import
-  - Website
+The 'VCNewsDaily' website is great for finding details into recent fundings, with very limited search capabilities for non-paid tools.
 ![](images/VCNewsDaily%20-%20Website%20Sample.PNG)
-  - From HTML
+Instead, it is going to be the raw HTML Data that is going to be used by being collected, cleaned and stored.
 ![](images/VCNewsDaily%20-%20Website%20HTML%20Sample.PNG)
 
-- Data Exploration
-  - Identifying and Merging Data
-
+Data Exploration - Identifying and Merging Data
 ![](images/VCNewsDaily%20Data%20-%20Overview.PNG)
 ![](images/VCNewsDaily%20Data%20-%20Funding.PNG)
 ![](images/VCNewsDaily%20Data%20-%20Company.PNG)
