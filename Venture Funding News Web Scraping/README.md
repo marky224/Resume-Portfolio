@@ -32,15 +32,21 @@ The raw data for each venture funding round was collected from three online page
 ![](images/VCNewsDaily%20Data%20-%20Company.PNG)
 
 ## Results
-- Data Cleaning
-  - Raw Data
+
+All of the data that was sourced from the website's HTML was merged together and stored into the dataset 'raw data'.
+
 ![](images/VCNewsDaily%20Data%20-%20Raw.PNG)
-  - Prepping Data for Calculations
+
+All of our 'raw data' that was cleaned using python is stored into the dataset 'clean data'.
+  
 ![](images/VCNewsDaily%20Data%20-%20Clean.PNG)
-- Data Engineering
-  - Managing SQL Server
+
+After being uploaded into a MS SQL Server, our 'clean data' was also stored by proper datatypes as well. This was done to prepare the data for calculations and predictive modeling.
+
 ![](images/VCNewsDaily%20Data%20-%20SQL%20Table.PNG)
-  - Storing Data
+
+The data can then be retrieved and analyzed with SQL queries.
+
 ![](images/VCNewsDaily%20Data%20-%20SQL.PNG)
 
 ## Discussion
