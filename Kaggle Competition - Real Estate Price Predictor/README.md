@@ -24,12 +24,12 @@ Through a dataset provided by Kaggle for a data science competition, this projec
 
 - Data Engineering
 
-# Results
+## Results
 
 - Data Model
 
 - Data Results
 
-# Discussion
+## Discussion
 
 - Implications and Further Research
