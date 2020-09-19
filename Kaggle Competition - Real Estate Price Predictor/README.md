@@ -17,7 +17,8 @@ Through a dataset provided by Kaggle for a data science competition, this projec
 This project's task comes from a Kaggle competition.
 ![](images/Real%20Estate%20-%20Kaggle%20Competition.PNG)
 
-- Data Import
+Our project's task was to rebuild an end-to-end project that had made it to the top 0.3%.
+![](images/Real%20Estate%20Project%20Model.PNG)
 
 - Data Exploration
 
