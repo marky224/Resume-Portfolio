@@ -28,19 +28,19 @@ The initial data analysis involved using a heatmap to help identify features tha
 
 ![](images/Real%20Estate%20Heatmap.PNG)
 
-The features that had higher and lower correlations with 'Sale Price' were plotted against each other.
+The features that had higher and lower correlations with 'Sale Price' were plotted against each other for an initial visual analysis.
 
 ![](images/Real%20Estate%20Pairplot.PNG)
 
 ## Methods
 
-Missing features were then investigated, but none of the correlated features investigated had any significant problems with missing data. Our missing data was imputting by averaging missing house features (i.e., lot square feet) by zip code.
+Missing features in the data were then investigated, but none of the correlated features investigated [above] had any significant problems with missing data. Our missing data was imputted by averaging missing house features (i.e., lot square feet) by zip code.
 
 ![](images/Real%20Estate%20Missing%20Features.PNG)
 
 To help prevent overfitting when working with real-world data, a logarithm transformation was applied to the target feature 'Sale Price'.
 
-![](images/Real%20Estate%20Numbers%20Boxplot.PNG)
+![](images/Real%20Estate%20Sale%20Price%20Log.PNG)
 
 ## Results
 
