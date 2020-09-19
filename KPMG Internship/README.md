@@ -38,7 +38,7 @@ Customer purchase frequency was then explored -- with the majority of customers 
 
 And while there was only a marginal difference in average profit per transaction on a monthly basis.
 
-![](images/Average%20Profit%20per%20Transaction.png)
+![](images/Average%20Profit%20per%20Transaction.PNG)
 
 A significant uncovering in the transaction dataset was the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
