@@ -34,7 +34,7 @@ Then the initial exploration into the customer base starts by seeing that most c
 
 Customer purchase frequency was then explored -- with the majority of customers having between 3-to-8 bike purchases in the past 3 years, which translates into roughly 1-to-3 annual bike purchases per customer on average.
 
-![](images/Average%20Customer%20Transaction.PNG)
+![](images/Average%20Customer%20Transactions.PNG)
 
 And while there was only a marginal difference in average profit per transaction on a monthly basis.
 
