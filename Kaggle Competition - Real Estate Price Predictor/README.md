@@ -22,6 +22,18 @@ Our project's task was to rebuild an end-to-end project that had made it to the 
 
 - Data Exploration
 
+The initial analysis into the data involves using a heatmap to help identify features that have [higher] correlations with our target feature 'Sale Price'.
+
+![](images/Real%20Estate%20Heatmap.PNG)
+
+The features that had higher and lower correlations with 'Sale Price' were plotted together for pairwise comparisons.
+
+![](images/Real%20Estate%20Pairwise.PNG)
+
+Missing features were also investigated, but none of the correlated features investigated had any problems with missing data.
+
+![](images/Real%20Estate%20Missing%20Features.PNG)
+
 ## Methods
 
 - Data Cleaning
