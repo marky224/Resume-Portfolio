@@ -15,6 +15,7 @@ Analyzing and exploring LA County data to help a potential new Angelo help find 
 Map of LA County
 
 ![](Images/LA%20County%20Map.html)
+![](Images/LA%20County%20Map.PNG)
 
 ## Methods
 
