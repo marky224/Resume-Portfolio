@@ -20,9 +20,11 @@ This project's task comes from a Kaggle competition.
 Our project's task was to rebuild an end-to-end project that had made it to the top 0.3%.
 ![](images/Real%20Estate%20Project%20Model.PNG)
 
-- Data Exploration
+The project's task is to identify house features that help predict the price of a house when it is sold, and build a predictive model accordingly.
 
-The initial analysis into the data involves using a heatmap to help identify features that have [higher] correlations with our target feature 'Sale Price'.
+![](images/Real%20Estate%20Sale%20Price.PNG)
+
+The initial data analysis involved using a heatmap to help identify features that have [higher and lower] correlations with our target feature 'Sale Price'.
 
 ![](images/Real%20Estate%20Heatmap.PNG)
 
@@ -30,13 +32,13 @@ The features that had higher and lower correlations with 'Sale Price' were plott
 
 ![](images/Real%20Estate%20Pairwise.PNG)
 
-Missing features were also investigated, but none of the correlated features investigated had any problems with missing data.
-
-![](images/Real%20Estate%20Missing%20Features.PNG)
-
 ## Methods
 
 - Data Cleaning
+
+Missing features were also investigated, but none of the correlated features investigated had any problems with missing data.
+
+![](images/Real%20Estate%20Missing%20Features.PNG)
 
 - Data Engineering
 
