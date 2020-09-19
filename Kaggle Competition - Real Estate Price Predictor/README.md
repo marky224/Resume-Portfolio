@@ -38,15 +38,20 @@ Missing features in the data were then investigated, but none of the correlated 
 
 ![](images/Real%20Estate%20Missing%20Features.PNG)
 
-To help prevent overfitting when working with real-world data, a logarithm transformation was applied to the target feature 'Sale Price'.
+For our target variable - to help prevent overfitting when working with real-world data, a logarithm transformation was applied to the target feature 'Sale Price'.
 
 ![](images/Real%20Estate%20Sale%20Price%20Log.PNG)
 
+For our house features - to also help prevent overfitting with real-world data, numeric features with high skew in their data had a coxbox transformation applied to them accordingly
+
+![](images/Real%20Estate%20Numbers%20Boxplot.PNG)
+![](images/Real%20Estate%20Numbers%20Boxplot%20Boxcox.PNG)
+
 ## Results
 
-- Data Model
+Several models were then built and scored accordingly. The final predictive model took the average of several predictive models to give the most accurate data predictions
 
-- Data Results
+![](images/Real%20Estate%20Model%20Score.PNG)
 
 ## Discussion
 
