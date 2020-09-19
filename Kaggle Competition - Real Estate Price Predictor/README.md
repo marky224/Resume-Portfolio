@@ -55,4 +55,6 @@ Several models were then built and scored accordingly. The final predictive mode
 
 ## Discussion
 
-- Implications and Further Research
+This project was terrific for learning python, statistics and data science - seeing how the model project was completely rebuilt from scratch, along with creating a completely new model that was slightly simpler.
+
+#### Implications and Further Research
