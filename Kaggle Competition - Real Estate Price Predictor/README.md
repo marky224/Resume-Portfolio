@@ -51,7 +51,7 @@ For our house features - to also help prevent overfitting with real-world data, 
 
 Several models were then built and scored accordingly. The final predictive model took the average of several predictive models to give the most accurate data predictions
 
-![](images/Real%20Estate%20Model%20Score.PNG)
+![](images/Real%20Estate%20Model%20Scores.PNG)
 
 ## Discussion
 
