@@ -14,7 +14,7 @@ Through a dataset provided by Kaggle for a data science competition, this projec
 
 ## Introduction
 
-The task for this project comes from a Kaggle competition.
+This project's task comes from a Kaggle competition.
 ![](images/Real%20Estate%20-%20Kaggle%20Competition.PNG)
 
 - Data Import
