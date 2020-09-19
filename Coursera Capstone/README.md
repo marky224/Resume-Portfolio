@@ -12,6 +12,10 @@ Analyzing and exploring LA County data to help a potential new Angelo help find 
 
 - Data Import
 
+Map of LA County
+
+![](Images/LA%20County%20Map.html)
+
 ## Methods
 
 - Data Exploration
