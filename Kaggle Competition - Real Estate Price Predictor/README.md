@@ -55,6 +55,6 @@ Several models were then built and scored accordingly. The final predictive mode
 
 ## Discussion
 
-This project was terrific for learning python, statistics and data science - seeing how the model project was completely rebuilt from scratch, along with creating a completely new model that was slightly simpler.
+This project was terrific for learning python, statistics and data science - seeing how the model project was completely [rebuilt from scratch](https://github.com/marky224/Resume-Portfolio/blob/master/Kaggle%20Competition%20-%20Real%20Estate%20Price%20Predictor/Real%20Estate%20Predictor%20Project.ipynb), along with creating a completely new model that was slightly simpler.
 
 #### Implications and Further Research
