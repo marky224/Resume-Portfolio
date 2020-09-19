@@ -34,7 +34,11 @@ Then the initial exploration into the customer base starts by seeing that most c
 
 Customer purchase frequency was then explored -- with the majority of customers having between 3-to-8 bike purchases in the past 3 years, which translates into roughly 1-to-3 annual bike purchases per customer on average.
 
-![](images/Average%20Customer%20Transactions.PNG)
+![](images/Average%20Customer%20Transaction.PNG)
+
+And while there was only a marginal difference in average profit per transaction on a monthly basis.
+
+![](images/Average%20Profit%20per%20Transaction.png)
 
 A significant uncovering in the transaction dataset was the clear difference in profitability by wealth segment, with the customer group 'mass customer' being twice as profitable as the other two groups 'affluent' and 'high net worth'.
 
