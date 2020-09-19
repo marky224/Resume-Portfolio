@@ -20,10 +20,6 @@ The initial results showed two seasonal spikes in monthly sales due to both summ
 
 ![](images/Transactions%20by%20Month.png)
 
-Although there's a difference in total transactions by month, the average profit per transaction by month seems to be consistent throughout the year.
-
-![](images/Transactions%20Profit%20by%20Month.png)
-
 The results then showed that while most bike sales came from 'standard' or 'road' bike types, it was the 'mountain' and 'road' bike types that proved to be a lot more profitable.
 
 ![](images/Transactions%20by%20Bike.PNG)
