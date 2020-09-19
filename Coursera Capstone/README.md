@@ -8,10 +8,21 @@ Analyzing and exploring LA County data to help a potential new Angelo help find 
 - Developing sociodemographic benchmark and scores for each group of cities
 
 
-# Project Outline
+## Introduction
+
 - Data Import
+
+## Methods
+
 - Data Exploration
 - Data Cleaning
 - Data Engineering
+
+## Results
+
 - Data Model
 - Data Results
+
+## Discusssion
+
+- Implications / Future Reseearch
