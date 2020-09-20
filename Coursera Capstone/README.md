@@ -16,7 +16,7 @@ Map of LA County
 
 ![](Images/LA%20County%20Map.PNG)
 
-<img src="LA County Map.PNG">
+<img src="Images/LA County Map.PNG">
 
 ## Methods
 
