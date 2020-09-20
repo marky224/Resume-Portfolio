@@ -13,7 +13,7 @@ Analyzing and exploring LA County data to help a potential new Angelo help find 
 - Data Import
 
 Map of LA County
-
+![](Images/LA County Map - 1.PNG)
 <img src="Images/LA County Map.PNG">
 
 ## Methods
