@@ -20,7 +20,7 @@ Initial data analysis started with an initial heatmap, to find sociodemographic 
 
 ![](Images/LA%20County%20Heatmap%20Model.PNG)
 
-![](Images/LA%20County%20Pairplot%20Model.PNG)
+![](Images/LA%20County%20Histograms.PNG)
 
 - Data Exploration
 
@@ -35,6 +35,8 @@ Maps of LA County
 ![](Images/LA%20County%20Map%20-%20School%20Enrollment.PNG)
 
 PCA
+
+![](Images/LA%20County%20Pairplot%20Model.PNG)
 
 ![](Images/LA%20County%20PCA.PNG)
 
