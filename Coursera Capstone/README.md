@@ -19,6 +19,7 @@ Initial data analysis started with an initial heatmap, to find sociodemographic 
 ![](Images/LA%20County%20Heatmap.PNG)
 
 ![](Images/LA%20County%20Heatmap%20Model.PNG)
+
 ![](Images/LA%20County%20Histograms.png)
 
 - Data Exploration
