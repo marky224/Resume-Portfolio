@@ -16,53 +16,58 @@ This study leveraged data made available by the County of Los Angeles at (www.da
 
 Initial data analysis started with an heatmap and histograms for each feature, to find sociodemographic variables that were similar and to be removed.
 
+![](Images/LA%20County%20Histograms.png)
 ![](Images/LA%20County%20Heatmap.PNG)
 
-![](Images/LA%20County%20Histograms.png)
-
-For the initial data clean, the index columns were removed.
+For the initial data clean, the index columns were removed because of the overlap in distributions.
 
 ![](Images/LA%20County%20Heatmap%20Model.PNG)
 
-Features were also mapped out on the LA County map for a visual representation of the variance in sociodemographics scores from city to city.
+Features were then mapped out onto the LA County map for a visual representation of the variance in sociodemographics scores from city to city.
 
-- Outline of LA County
+- Initial Outline of LA County
 
 ![](Images/LA%20County%20Map.PNG)
 
-LA County Sociodemographics by Density:
+Maps of LA County Sociodemographics by Density:
 
-- Life Expectancy
+- Life Expectancy Map
 
 ![](Images/LA%20County%20Map%20-%20Life%20Expectancy.PNG)
 
-- No HS Diplomas
+- No HS Diplomas Map
 
 ![](Images/LA%20County%20Map%20-%20No%20HS%20Diplomas.PNG)
 
-- Bachelors Degrees
+- Bachelors Degrees Map
 
 ![](Images/LA%20County%20Map%20-%20Bachelors%20Degrees.PNG)
 
-- Graduate Degrees
+- Graduate Degrees Map
 
 ![](Images/LA%20County%20Map%20-%20Graduate%20Degrees.PNG)
 
-- Earnings
+- Earnings Map
 
 ![](Images/LA%20County%20Map%20-%20Earnings.PNG)
 
-- School Enrollment
+- School Enrollment Map
 
 ![](Images/LA%20County%20Map%20-%20School%20Enrollment.PNG)
 
-PCA
+Pairwise relationships are plotted for a visual representation of the interaction amongst the features.
 
 ![](Images/LA%20County%20Pairplot%20Model.PNG)
 
+To figure out how many clusters of cities should be created to maximize the results, a principal component analysis is performed to figure out how many clusters would account for the most variance in the dataset. Splitting the data into 3 clusters would maximize the variance captured in each cluster.
+
 ![](Images/LA%20County%20PCA.PNG)
 
+The data is split into 3 clusters using K-Means clustering, to find three local minimas in our data.
+
 ![](Images/LA%20County%20Pairplot%20PCA.PNG)
+
+The 3 clusters are plotted by cluster in a pairwise plot to examine how the data was split.
 
 ![](Images/LA%20County%20Pairplot%20Model%20PCA.PNG)
 
