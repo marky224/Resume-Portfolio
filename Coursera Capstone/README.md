@@ -73,7 +73,11 @@ The 3 clusters are plotted by cluster in a pairwise plot to examine how the data
 
 ## Results
 
+The clusters of cities created are then mapped onto LA County for a visual representation of how it is split by sociodemographic standards.
+
 ![](Images/LA%20County%20Map%20-%20Model%20PCA.PNG)
+
+Benchmarks were created to find average socioeconomic scores for each cluser of city.
 
 ![](Images/LA%20County%20Benchmarks.PNG)
 
