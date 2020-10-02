@@ -1,11 +1,5 @@
 # Project Summary
-Through a dataset provided by the US government, helping people who are potentially interested in moving to LA County to understand the sociodemographic make-up of its communities. Grouping cities based on common sociodemographic traits and developing benchmarks scores for each group. Along with developing visuals to easily compare cities and groups of cities.
-
-## Project Goals
-Analyzing and exploring LA County data to help a potential new Angelo help find the best spot to move to, based on their income and living standards:
-- Analyzing and formatting data to visually explore how cities differ with sociodemographic scores
-- Grouping cities from a data-driven perspective by using dimension reduction
-- Developing sociodemographic benchmark and scores for each group of cities
+Through a dataset provided by the US government, cities in LA County will be grouped into clusters based on sociodemographic scores to develop benchmarks for each cluster. This will help city officials identify what are the biggest areas for improvement based on cluster (i.e., mental health to upper-class vs school quality to lower-class). Along with mapping out LA County based on socioeconomic clusters to identify potential visual patterns.
 
 
 ## Introduction
@@ -14,9 +8,9 @@ With the national debt being at an all-time high for the US, having local levels
 
 ## Methods
 
-This study is going to be exploring a dataset of various cities within a specific area that includes various socioeconomic factors, by grouping them into different groups and creating different benchmarks for each group. We will be cluster cities into groups by using unsupervised machine learning methods. Once the data has been group accordingly, then we are going to mapping out the city cluster map of LA County to help identify potential visual trends (for future studies).
+The goal of this study is to group cities within LA County into clusters of groups based on socioeconomic scores to help indentify population averages, socioeconomic benchmarks, and potential indicators of success (i.e., income, school enrollment, life expectancy, etc.). This study is going to be using unsupervised machine learning methods to cluster cities into groups, based on socioeconomic factors. The socioeconomic clusters map for LA County will also be mapped out according to help identify potential visual trends (for future studies).
 
-Initial data analysis started with an initial heatmap, to find sociodemographic variables that are similar and should be removed
+Initial data analysis started with an initial heatmap, to find sociodemographic variables that are similar and should be removed.
 
 ![](Images/LA%20County%20Heatmap.PNG)
 
