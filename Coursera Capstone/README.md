@@ -83,4 +83,4 @@ Benchmarks were created to find average socioeconomic scores for each cluser of 
 
 ## Discusssion
 
-- Implications / Future Reseearch
+Looking at the map, there seens to be a clear positive relationship between higher performing cities and their proximity to the ocean, with inner cities regions being the worst performers, expect for a pockets of higher performing cities that are closer to mountain areas as well. From the breakdown of the averages for the different groups above, the least disparity observeds was for 'life expectancy' and 'school enrollment', while the highest disparity observed was for 'No HS diplomas', 'graduate degrees' and 'earnings'.
