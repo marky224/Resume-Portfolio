@@ -26,7 +26,7 @@ For the initial data clean, the index columns were removed.
 
 Features were also mapped out on the LA County map for a visual representation of the variance in sociodemographics scores from city to city.
 
-Outline of LA County
+- Outline of LA County
 
 ![](Images/LA%20County%20Map.PNG)
 
