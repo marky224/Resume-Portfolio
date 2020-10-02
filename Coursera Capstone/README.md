@@ -30,19 +30,30 @@ Outline of LA County
 
 ![](Images/LA%20County%20Map.PNG)
 
-LA County Sociodemographics: 
+LA County Sociodemographics by Density:
+
 - Life Expectancy
-- Bachelors Degrees
-- Earnings
-- Graduate Degrees
+
+![](Images/LA%20County%20Map%20-%20Life%20Expectancy.PNG)
+
 - No HS Diplomas
-- School Enrollment
+
+![](Images/LA%20County%20Map%20-%20No%20HS%20Diplomas.PNG)
+
+- Bachelors Degrees
 
 ![](Images/LA%20County%20Map%20-%20Bachelors%20Degrees.PNG)
-![](Images/LA%20County%20Map%20-%20Earnings.PNG)
+
+- Graduate Degrees
+
 ![](Images/LA%20County%20Map%20-%20Graduate%20Degrees.PNG)
-![](Images/LA%20County%20Map%20-%20Human%20Development%20Index.PNG)
-![](Images/LA%20County%20Map%20-%20No%20HS%20Diplomas.PNG)
+
+- Earnings
+
+![](Images/LA%20County%20Map%20-%20Earnings.PNG)
+
+- School Enrollment
+
 ![](Images/LA%20County%20Map%20-%20School%20Enrollment.PNG)
 
 PCA
