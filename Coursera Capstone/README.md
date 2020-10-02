@@ -16,8 +16,8 @@ This study leveraged data made available by the County of Los Angeles at (www.da
 
 Initial data analysis started with an heatmap and histograms for each feature, to find sociodemographic variables that were similar and to be removed.
 
-![](Images/LA%20County%20Histograms.png)
 ![](Images/LA%20County%20Heatmap.PNG)
+![](Images/LA%20County%20Histograms.png)
 
 For the initial data clean, the index columns were removed because of the overlap in distributions.
 
@@ -59,7 +59,7 @@ Pairwise relationships are plotted for a visual representation of the interactio
 
 ![](Images/LA%20County%20Pairplot%20Model.PNG)
 
-To figure out how many clusters of cities should be created to maximize the results, a principal component analysis is performed to figure out how many clusters would account for the most variance in the dataset. Splitting the data into 3 clusters would maximize the variance captured in each cluster.
+To figure out how many clusters of cities should be created to maximize the results, a principal component analysis is performed to figure out how many clusters would account for the most variance in the dataset. The data is split into 3 clusters to maximize the variance captured in each cluster.
 
 ![](Images/LA%20County%20PCA.PNG)
 
