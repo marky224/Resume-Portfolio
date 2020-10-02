@@ -12,19 +12,30 @@ Given the size and complexity of LA County, one-size-fit-all approaches don't wo
 
 This study leveraged data made available by the County of Los Angeles at (www.data.lacounty.gov/), titled the 'A Portrait of Los Angeles County using the Human Development Index: GIS Data' available at (www.data.lacounty.gov/Community/A-Portrait-of-Los-Angeles-County-using-the-Human-D/j7aj-mn8v). The goal of this study was to group cities within LA County into clusters of groups based on socioeconomic scores to help indentify population averages, socioeconomic benchmarks, and potential indicators of success (i.e., income, school enrollment, life expectancy, etc.). This study used unsupervised machine learning methods to cluster cities into groups, based on socioeconomic factors. The socioeconomic clusters map for LA County are also be mapped out according to help identify potential visual trends (for future studies).
 
-Initial data analysis started with an initial heatmap, to find sociodemographic variables that are similar and should be removed.
+Initial data analysis started with an heatmap and histograms for each feature, to find sociodemographic variables that were similar and to be removed.
 
 ![](Images/LA%20County%20Heatmap.PNG)
 
-![](Images/LA%20County%20Heatmap%20Model.PNG)
-
 ![](Images/LA%20County%20Histograms.png)
 
-- Data Exploration
+For the initial data clean, the index columns were removed.
 
-Maps of LA County
+![](Images/LA%20County%20Heatmap%20Model.PNG)
+
+Features were also mapped out on the LA County map for a visual representation of the variance in sociodemographics scores from city to city.
+
+Outline of LA County
 
 ![](Images/LA%20County%20Map.PNG)
+
+LA County Sociodemographics: 
+- Life Expectancy
+- Bachelors Degrees
+- Earnings
+- Graduate Degrees
+- No HS Diplomas
+- School Enrollment
+
 ![](Images/LA%20County%20Map%20-%20Bachelors%20Degree.PNG)
 ![](Images/LA%20County%20Map%20-%20Earnings.PNG)
 ![](Images/LA%20County%20Map%20-%20Graduate%20Degrees.PNG)
